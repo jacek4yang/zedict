@@ -42,7 +42,7 @@ tempfile = "3"
 toml = "0.8"
 html-escape = "0.2"
 textwrap = { version = "0.16", features = ["terminal_size"] }
-sha2 = "0.10"
+sha2 = "0.11"
 open = "5"
 httpdate = "1"
 axum = { version = "0.8", optional = true }
