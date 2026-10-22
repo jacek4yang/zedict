@@ -1,0 +1,2631 @@
+{
+  "review_type": "AI source review; independent human audit pending",
+  "source_sha256": "c98413344e06a63960d2825e2773a3b4fd36b25aeba347d06a14bfa0fcfb3b64",
+  "cases": [
+    {
+      "query": "English",
+      "source_line": 6694,
+      "source_sense": 0,
+      "phon_uk": "/'ɪŋɡlɪʃ/",
+      "record_sha256": "de3c30f8573e50b45e35f6a6753b2a3cfeb0ac07e27eabecc3a24e5bf7bdc33d"
+    },
+    {
+      "query": "air",
+      "source_line": 25229,
+      "source_sense": 0,
+      "phon_uk": "/eə(r)/",
+      "record_sha256": "c597e70cebd613b9150e522a713989e0a5d83c3d627a4b2f5d8dbe4449d5ad99"
+    },
+    {
+      "query": "algorithm",
+      "source_line": 25801,
+      "source_sense": 1,
+      "phon_uk": "/'ælɡərɪðəm/",
+      "record_sha256": "3d60fd4bfbce35f37a781422a0a35fa88502e5e0a4f9a98537a2b3ff45ca6ad2"
+    },
+    {
+      "query": "analysis",
+      "source_line": 27482,
+      "source_sense": 0,
+      "phon_uk": "/ə'næləsɪs/",
+      "record_sha256": "e4ffb98bbe10077f734ac031342aef645017aa1a70cc1d505b3691e39f1c77a9"
+    },
+    {
+      "query": "analyze",
+      "source_line": 27514,
+      "source_sense": 0,
+      "phon_uk": "/ˈænəlaɪz/",
+      "record_sha256": "58597444e33341dfbc820fd992393e502a98d6160b3a80134f815b73c02a8aeb"
+    },
+    {
+      "query": "angle",
+      "source_line": 27834,
+      "source_sense": 0,
+      "phon_uk": "/'æŋɡl/",
+      "record_sha256": "5784ae3129ccc1ef75678f1b2e6c66bb08b6f9b62580d5128f290b89cef0602f"
+    },
+    {
+      "query": "answer",
+      "source_line": 28228,
+      "source_sense": 0,
+      "phon_uk": "/'ɑːnsə(r)/",
+      "record_sha256": "b8df58e51a1fed9c65001d7c06674660f6b600090d011953b982e7e2ef32b0c4"
+    },
+    {
+      "query": "application",
+      "source_line": 29504,
+      "source_sense": 2,
+      "phon_uk": "/ˌæplɪ'keɪʃn/",
+      "record_sha256": "9f7a708736369b32b41dca0fcfe60d45f27ceabb266c632c5178cede2b2db11b"
+    },
+    {
+      "query": "apple",
+      "source_line": 29505,
+      "source_sense": 1,
+      "phon_uk": "/'æpl/",
+      "record_sha256": "89979d7544c93c7b47e33ca56bf8ab9fb7a2bdbaec521cf3d605bfeb59d28715"
+    },
+    {
+      "query": "apply",
+      "source_line": 29520,
+      "source_sense": 1,
+      "phon_uk": "/ə'plaɪ/",
+      "record_sha256": "3916301f4e0988709c95515e6fb066baa0b58922ba5cc18fd9c08ba53600dfd0"
+    },
+    {
+      "query": "argument",
+      "source_line": 30157,
+      "source_sense": 0,
+      "phon_uk": "/'ɑːɡjumənt/",
+      "record_sha256": "a0119b3e006477163face34ad41f8aea46e9c9418eb013fdac341554446d4a4e"
+    },
+    {
+      "query": "array",
+      "source_line": 30380,
+      "source_sense": 1,
+      "phon_uk": "/ə'reɪ/",
+      "record_sha256": "976a05e614ab8a2318d94aab4136852f59d47dedd891300d9c2ce2ed30c7d7ce"
+    },
+    {
+      "query": "art",
+      "source_line": 30513,
+      "source_sense": 1,
+      "phon_uk": "/ɑːt/",
+      "record_sha256": "f3700cede439014454f31289a575ea1c94d040bf5acc2a6a2d18a21d1044d7af"
+    },
+    {
+      "query": "as well as",
+      "source_line": 30731,
+      "source_sense": 2,
+      "phon_uk": null,
+      "record_sha256": "88396606dd189f6e74b924e4e3ca63fe6c0f510e44b195436d7437cdf8a98478"
+    },
+    {
+      "query": "at least",
+      "source_line": 31411,
+      "source_sense": 0,
+      "phon_uk": null,
+      "record_sha256": "74b38ff80869554281bede37cf5681fadf228acfd70468acf55db30704e818c7"
+    },
+    {
+      "query": "authorization",
+      "source_line": 32130,
+      "source_sense": 0,
+      "phon_uk": "/ˌɔːθəraɪ'zeɪʃn/",
+      "record_sha256": "3fe34438d8e2124b4226404698c93fc2d5c341883507821dde668978b0214879"
+    },
+    {
+      "query": "automatic",
+      "source_line": 32353,
+      "source_sense": 0,
+      "phon_uk": "/ˌɔːtə'mætɪk/",
+      "record_sha256": "03ab88d1e16cab6616451313534ec72d22f792d7ee1ac1bf7aab803f507528ce"
+    },
+    {
+      "query": "available",
+      "source_line": 32571,
+      "source_sense": 0,
+      "phon_uk": "/ə'veɪləbl/",
+      "record_sha256": "146ee25d810b7a383efb892e5f0adcc20b0cdd39dd8195146335a4a74245b7cd"
+    },
+    {
+      "query": "average",
+      "source_line": 32601,
+      "source_sense": 0,
+      "phon_uk": "/'ævərɪdʒ/",
+      "record_sha256": "5f60f824db97dd686c088dd4beaedd04506c7dbcd451354aa589fd3e47668447"
+    },
+    {
+      "query": "axe",
+      "source_line": 32769,
+      "source_sense": 0,
+      "phon_uk": "/æks/",
+      "record_sha256": "675c123616941abe468bd2d4b6645b9c867bfe10b1ce5e214ff0a17ef622e761"
+    },
+    {
+      "query": "axis",
+      "source_line": 32807,
+      "source_sense": 0,
+      "phon_uk": "/'æksɪs/",
+      "record_sha256": "3e9c6356106db9e83789ad9723eb70dfb5041645b5602aa9aa7e7807e5d41416"
+    },
+    {
+      "query": "balance",
+      "source_line": 33536,
+      "source_sense": 2,
+      "phon_uk": "/'bæləns/",
+      "record_sha256": "0478eabc7489b4fb11dff1dfec76c0609db0b8f35e161505e8a8edd2e96387a3"
+    },
+    {
+      "query": "banana",
+      "source_line": 33750,
+      "source_sense": 0,
+      "phon_uk": "/bə'nɑːnə/",
+      "record_sha256": "19516ccfd965df473659f96f9dae75c13b809f2ecaa50973a82861e44a8f83c1"
+    },
+    {
+      "query": "beautiful",
+      "source_line": 35131,
+      "source_sense": 0,
+      "phon_uk": "/'bjuːtɪfl/",
+      "record_sha256": "8b56a231d5f69265be7b6271cd5bfa972231a4d7c2f8b59dab3469ef8dd37f60"
+    },
+    {
+      "query": "bed",
+      "source_line": 35181,
+      "source_sense": 0,
+      "phon_uk": "/bed/",
+      "record_sha256": "8be4c857c02b01ee6d2cb999078a06fa748024d9e1a9179c355cbd0e937815d4"
+    },
+    {
+      "query": "behavior",
+      "source_line": 35460,
+      "source_sense": 0,
+      "phon_uk": "/bɪˈheɪvjə(r)/",
+      "record_sha256": "65ac80e9bc330614064ce5def65a6edadb4b3673226c7d9c0c0bc29bfa523511"
+    },
+    {
+      "query": "big",
+      "source_line": 36474,
+      "source_sense": 0,
+      "phon_uk": "/bɪɡ/",
+      "record_sha256": "d82de6130d3b0645c265d9b4b1c79f2fe9e6cf0ce49031d8fa64d39127f74319"
+    },
+    {
+      "query": "binary",
+      "source_line": 36705,
+      "source_sense": 0,
+      "phon_uk": "/'baɪnəri/",
+      "record_sha256": "a3e8ac67f2cb8ba7bdcdc6c115a7c727d2426da937919ed7fb57bdbec9d972f1"
+    },
+    {
+      "query": "bird",
+      "source_line": 37176,
+      "source_sense": 0,
+      "phon_uk": "/bɜːd/",
+      "record_sha256": "47f6b9534957c135793525fdfc40f7367046e1c28727444d361b08c07574434a"
+    },
+    {
+      "query": "black",
+      "source_line": 37470,
+      "source_sense": 0,
+      "phon_uk": "/blæk/",
+      "record_sha256": "0aa69d0d4b20a1c1db8f4d1f5af9792421f779298468158a6c2e5a15d5559729"
+    },
+    {
+      "query": "blue",
+      "source_line": 38113,
+      "source_sense": 0,
+      "phon_uk": "/bluː/",
+      "record_sha256": "9d8a9232ce27e852345492bd5e95bfdf7bda72df967a15b733e30d377a9b0026"
+    },
+    {
+      "query": "boat",
+      "source_line": 38281,
+      "source_sense": 0,
+      "phon_uk": "/bəʊt/",
+      "record_sha256": "340f490e136c7e73d3df8f25afbd009a771e61b15b1384163573b05d2f5f4538"
+    },
+    {
+      "query": "book",
+      "source_line": 38707,
+      "source_sense": 0,
+      "phon_uk": "/bʊk/",
+      "record_sha256": "fd4bf0af15b5c92643599078dbdabb1d05915355eecaf399e00bca737b5ad034"
+    },
+    {
+      "query": "borrow",
+      "source_line": 38950,
+      "source_sense": 1,
+      "phon_uk": "/'bɒrəʊ/",
+      "record_sha256": "2f79927d0316566edb937f34b9e30e4c91e408818e899d85f359bfd14e8797c0"
+    },
+    {
+      "query": "boundary",
+      "source_line": 39166,
+      "source_sense": 0,
+      "phon_uk": "/'baʊndri/",
+      "record_sha256": "6b88c85d9cc59f725b90b282f0b2210aa313624193856dd723d2d7b941408bca"
+    },
+    {
+      "query": "branch",
+      "source_line": 39546,
+      "source_sense": 0,
+      "phon_uk": "/brɑːntʃ/",
+      "record_sha256": "89870cbb5138224805f5d9e53e22d6c8c9261598bde1849977b6ab73766855e7"
+    },
+    {
+      "query": "bread",
+      "source_line": 39674,
+      "source_sense": 0,
+      "phon_uk": "/bred/",
+      "record_sha256": "cd2c8676241a9b3fc2bc46f770a249c58e812a907b02c89be92f702778e88bd3"
+    },
+    {
+      "query": "buffer",
+      "source_line": 40640,
+      "source_sense": 0,
+      "phon_uk": "/'bʌfə(r)/",
+      "record_sha256": "56a3d1e484d7ba198ad63cb9e0f5906630131796dd8b1c01848bd3972d5d4089"
+    },
+    {
+      "query": "build",
+      "source_line": 40718,
+      "source_sense": 0,
+      "phon_uk": "/bɪld/",
+      "record_sha256": "fe6efd6952be6af7500d20b537a00ee0d41f02a7d580da5d14e64a21af791492"
+    },
+    {
+      "query": "cache",
+      "source_line": 41681,
+      "source_sense": 0,
+      "phon_uk": "/kæʃ/",
+      "record_sha256": "237b66024cf9fa4229ec144266bb1004b135e0a43a44443aa1afed39dfa0c749"
+    },
+    {
+      "query": "calculate",
+      "source_line": 42021,
+      "source_sense": 0,
+      "phon_uk": "/'kælkjuleɪt/",
+      "record_sha256": "f356be07e40af4234114323001671ffae770998422c6db9928dd1422de49d30f"
+    },
+    {
+      "query": "cancel",
+      "source_line": 42471,
+      "source_sense": 0,
+      "phon_uk": "/'kænsl/",
+      "record_sha256": "f80d88daebdbb5da0404cc249e53852a1bf99c0c3cefff8c99bd3662ae43c47e"
+    },
+    {
+      "query": "can",
+      "source_line": 42474,
+      "source_sense": 0,
+      "phon_uk": "/kæn/",
+      "record_sha256": "a060ae9b0b4941f85aa2d1cf762f450f1c64055076619df5154c5bda4a891edd"
+    },
+    {
+      "query": "capacity",
+      "source_line": 42828,
+      "source_sense": 0,
+      "phon_uk": "/kə'pæsəti/",
+      "record_sha256": "b0f20b6297e1092224db64b51a110963ad165e355ee618d87227f96a054ecaf7"
+    },
+    {
+      "query": "car",
+      "source_line": 43000,
+      "source_sense": 1,
+      "phon_uk": "/kɑː(r)/",
+      "record_sha256": "df083c816c55c5974591246f60e0a3ca3aadf9b7d3ef235ea392a189e0b566a3"
+    },
+    {
+      "query": "cat",
+      "source_line": 44044,
+      "source_sense": 0,
+      "phon_uk": "/kæt/",
+      "record_sha256": "db08449d74990adf26a8751d58450f1f29049b0d1da828dbe13db3b733bc0e53"
+    },
+    {
+      "query": "category",
+      "source_line": 44231,
+      "source_sense": 1,
+      "phon_uk": "/'kætəɡəri/",
+      "record_sha256": "c28a57333b1e6f9f4093aa7aa579afe70ff95728153da33fcce0151268dec212"
+    },
+    {
+      "query": "chair",
+      "source_line": 45327,
+      "source_sense": 0,
+      "phon_uk": "/tʃeə(r)/",
+      "record_sha256": "d4e3c660b0ae46bae38a020027b3014222c67ae86c27b8988fa8b7d9fa16eac4"
+    },
+    {
+      "query": "character",
+      "source_line": 45634,
+      "source_sense": 0,
+      "phon_uk": "/'kærəktə(r)/",
+      "record_sha256": "d1ff128ced114bf65b250ebe8b14124adb4305897cca38617ed6d3a6a65c7532"
+    },
+    {
+      "query": "city",
+      "source_line": 47962,
+      "source_sense": 0,
+      "phon_uk": "/'sɪti/",
+      "record_sha256": "79f05f0be82d50e88f1659dc93013537c3385c087488904dc9b353c83af7aa66"
+    },
+    {
+      "query": "class",
+      "source_line": 48148,
+      "source_sense": 0,
+      "phon_uk": "/klɑːs/",
+      "record_sha256": "694b7a993528984d0bbab1812fa55e185f367f374f117cfab246b0d7900d6d7a"
+    },
+    {
+      "query": "client",
+      "source_line": 48466,
+      "source_sense": 0,
+      "phon_uk": "/'klaɪənt/",
+      "record_sha256": "8ce8f7a6c77ee6c6c5d5da10b5c9b246d750fee84448977c4b523f99376ced71"
+    },
+    {
+      "query": "close",
+      "source_line": 48697,
+      "source_sense": 1,
+      "phon_uk": "/kləʊz/",
+      "record_sha256": "c0e93ca199c96dece4c80fe043f1a2a027c169cf64365436a32f6edade9d8d8a"
+    },
+    {
+      "query": "clone",
+      "source_line": 48698,
+      "source_sense": 0,
+      "phon_uk": "/kləʊn/",
+      "record_sha256": "1857712ad31e5c01ca4dbc759d491199258a71093373b7f3d4e519a0cc783394"
+    },
+    {
+      "query": "code",
+      "source_line": 49349,
+      "source_sense": 0,
+      "phon_uk": "/kəʊd/",
+      "record_sha256": "35ab571deb22b3dfc47415ca5f7f754ec3808c70f080f55dae59551ceb8fc014"
+    },
+    {
+      "query": "coffee",
+      "source_line": 49486,
+      "source_sense": 0,
+      "phon_uk": "/'kɒfi/",
+      "record_sha256": "91d17e1b27b6c7371b48b015ad8dccefa8eabda3aa7f734113ebca97981cd198"
+    },
+    {
+      "query": "cold",
+      "source_line": 49697,
+      "source_sense": 0,
+      "phon_uk": "/kəʊld/",
+      "record_sha256": "ed554244536c5e2149b7071775ee467a76e14fbf8f6865ca81354cb9fa8335b6"
+    },
+    {
+      "query": "collection",
+      "source_line": 49892,
+      "source_sense": 0,
+      "phon_uk": "/kə'lekʃn/",
+      "record_sha256": "550848011229e5b79a2e36d448b1254a5dc8e5662859fce4c428c178c505cf2d"
+    },
+    {
+      "query": "come",
+      "source_line": 50283,
+      "source_sense": 1,
+      "phon_uk": "/kʌm/",
+      "record_sha256": "98831325338b3a682488628f4a4bab90477dbd16f07367f355e98a723e5074aa"
+    },
+    {
+      "query": "command",
+      "source_line": 50361,
+      "source_sense": 0,
+      "phon_uk": "/kə'mɑːnd/",
+      "record_sha256": "effa946688b4be8378316d6657318eb16f84f2870c79e93a68fd142e72007dd4"
+    },
+    {
+      "query": "comment",
+      "source_line": 50417,
+      "source_sense": 0,
+      "phon_uk": "/'kɒment/",
+      "record_sha256": "cede277d6790b199046d7def607f11b50dfdd8702b905a84ecaaaf3b6bf17e34"
+    },
+    {
+      "query": "compare",
+      "source_line": 50641,
+      "source_sense": 0,
+      "phon_uk": "/kəm'peə(r)/",
+      "record_sha256": "fe0f331fcbd91e347daf81e865c7180c48eea53b7d4a255e5a56d9de0be1eb09"
+    },
+    {
+      "query": "complete",
+      "source_line": 50750,
+      "source_sense": 0,
+      "phon_uk": "/kəm'pliːt/",
+      "record_sha256": "f06a9a4c674f824892f50c95e20f8ea0cea19eafbc324a1a8d8b3f577e59eb93"
+    },
+    {
+      "query": "complex",
+      "source_line": 50751,
+      "source_sense": 0,
+      "phon_uk": "/'kɒmpleks/",
+      "record_sha256": "e945de347d5dc10463c26363997d733ca3917714514e595945b63dedb6a72801"
+    },
+    {
+      "query": "component",
+      "source_line": 50820,
+      "source_sense": 1,
+      "phon_uk": "/kəm'pəʊnənt/",
+      "record_sha256": "7612dee0f5ecdccc02d17d176b2d0e5f01f02e37e579b0429b57b973f79c4c29"
+    },
+    {
+      "query": "computer",
+      "source_line": 50928,
+      "source_sense": 0,
+      "phon_uk": "/kəm'pjuːtə(r)/",
+      "record_sha256": "10e2186a524dd05bee5bb176a605926c6a9238905483e79af9854f8b9e668085"
+    },
+    {
+      "query": "concurrent",
+      "source_line": 51158,
+      "source_sense": 0,
+      "phon_uk": "/kən'kʌrənt/",
+      "record_sha256": "6936deebdf058d7a581a1dcefddcd45a7ff4d2e7100f4882ab8335526404464a"
+    },
+    {
+      "query": "condition",
+      "source_line": 51198,
+      "source_sense": 0,
+      "phon_uk": "/kən'dɪʃn/",
+      "record_sha256": "fb8f531295ee53bfc2b4c7252fe7dc230f83a65ceaf9c85cc0f37fff2eb6037a"
+    },
+    {
+      "query": "configuration",
+      "source_line": 51319,
+      "source_sense": 0,
+      "phon_uk": "/kənˌfɪɡə'reɪʃn/",
+      "record_sha256": "a61bf6d65024f8c00dc12c19516fad15fed5643c557617b6964258d96721fdb0"
+    },
+    {
+      "query": "connect",
+      "source_line": 51552,
+      "source_sense": 1,
+      "phon_uk": "/kə'nekt/",
+      "record_sha256": "8687ecf9f58b9c275b42dc4f6a5b33c24fda6bc703c7ba3dbdc7d739bdc7799f"
+    },
+    {
+      "query": "connection",
+      "source_line": 51559,
+      "source_sense": 0,
+      "phon_uk": "/kə'nekʃn/",
+      "record_sha256": "e1cbe9b3d91446a99df6769d18f1beff424b3b8eb783e727f10ea80fe65142e0"
+    },
+    {
+      "query": "constant",
+      "source_line": 51755,
+      "source_sense": 1,
+      "phon_uk": "/'kɒnstənt/",
+      "record_sha256": "f468c23716b9d7d72bebf0144a4d5b75651e2d9911bd72db4424605d854204fb"
+    },
+    {
+      "query": "constraint",
+      "source_line": 51783,
+      "source_sense": 0,
+      "phon_uk": "/kən'streɪnt/",
+      "record_sha256": "c0a4bf7e7da823c649f2f5a2e5080747cd0194cf6d11f8864172663a18107d21"
+    },
+    {
+      "query": "container",
+      "source_line": 51914,
+      "source_sense": 0,
+      "phon_uk": "/kən'teɪnə(r)/",
+      "record_sha256": "fee1db4f0dd9244f677db3848fabb9dea3802f9345c323796e82e49a2b14d01a"
+    },
+    {
+      "query": "content",
+      "source_line": 51947,
+      "source_sense": 0,
+      "phon_uk": "/ˈkɒntent/",
+      "record_sha256": "6786f2e3fd31940eb907b4f2f4750e79232ee7b710dc12be4872fa01520ddaeb"
+    },
+    {
+      "query": "context",
+      "source_line": 51960,
+      "source_sense": 0,
+      "phon_uk": "/'kɒntekst/",
+      "record_sha256": "10950802c9875423ad5f54760013cf05bf33b1eb2b1d941983f75c904652b838"
+    },
+    {
+      "query": "control",
+      "source_line": 52163,
+      "source_sense": 0,
+      "phon_uk": "/kən'trəʊl/",
+      "record_sha256": "f996c1c90a5478ac3308a025e5c3a4f015ec78c4393433e254c5ba494f8362e7"
+    },
+    {
+      "query": "convert",
+      "source_line": 52281,
+      "source_sense": 0,
+      "phon_uk": "/kən'vɜːt/",
+      "record_sha256": "1368db53288dc605273b19eef770f6a365d1ddb686d7bff1952b335b097ea927"
+    },
+    {
+      "query": "copy",
+      "source_line": 52585,
+      "source_sense": 1,
+      "phon_uk": "/'kɒpi/",
+      "record_sha256": "50e70e67845c2d6ea9512884a4330379cfbc938961739af587e559558641cb8c"
+    },
+    {
+      "query": "count",
+      "source_line": 53409,
+      "source_sense": 0,
+      "phon_uk": "/kaʊnt/",
+      "record_sha256": "916ac41629724210e5b8e93d8bfff8066eb5547b9b81a7ae55afa703e87f6873"
+    },
+    {
+      "query": "country",
+      "source_line": 53619,
+      "source_sense": 0,
+      "phon_uk": "/'kʌntri/",
+      "record_sha256": "bc39bcdd735921565877b54428f52e4515bf698e0016867f7f8709d33ee0a627"
+    },
+    {
+      "query": "create",
+      "source_line": 54211,
+      "source_sense": 0,
+      "phon_uk": "/kri'eɪt/",
+      "record_sha256": "360e032ad8cf47239ad772a0cb75e6e3296b7cfc47f81fb4f15ef431c2ef1c4b"
+    },
+    {
+      "query": "current",
+      "source_line": 55665,
+      "source_sense": 0,
+      "phon_uk": "/'kʌrənt/",
+      "record_sha256": "120fad05aa6b2d76f1ec81ddfbab6196b03283475d89c6c7689dd61125ecfc06"
+    },
+    {
+      "query": "dark",
+      "source_line": 56867,
+      "source_sense": 0,
+      "phon_uk": "/dɑːk/",
+      "record_sha256": "b7bf6857baedb4de61a1b384f49d153424bb0d9da20ef95205afa3ef02f12b9d"
+    },
+    {
+      "query": "data",
+      "source_line": 56894,
+      "source_sense": 0,
+      "phon_uk": "/'deɪtə/",
+      "record_sha256": "587efce8ea8743da31685ef39ab38f0eaef9f820b6ef21e413e0ac5a5fb1bcc9"
+    },
+    {
+      "query": "database",
+      "source_line": 56928,
+      "source_sense": 1,
+      "phon_uk": "/'deɪtəbeɪs/",
+      "record_sha256": "14d508cb6687804d078328e12e851a9b1876a87723630b2aa9cacb58b548fbc8"
+    },
+    {
+      "query": "day",
+      "source_line": 57027,
+      "source_sense": 0,
+      "phon_uk": "/deɪ/",
+      "record_sha256": "26e453db2507e2485d661c6ef7f2ed6cbc01b36ab46cbb380584da372570247f"
+    },
+    {
+      "query": "declaration",
+      "source_line": 57684,
+      "source_sense": 0,
+      "phon_uk": "/ˌdeklə'reɪʃn/",
+      "record_sha256": "a6ddef2e6bcbae6681d82a55b0d58906fd5bf0cd368fc68c71eacad573f6afc1"
+    },
+    {
+      "query": "default",
+      "source_line": 58008,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'fɔːlt/",
+      "record_sha256": "f256bb51dea7a6f635111a2d21eb2068914d5e3666458949dae897672d867d93"
+    },
+    {
+      "query": "definition",
+      "source_line": 58103,
+      "source_sense": 0,
+      "phon_uk": "/ˌdefɪ'nɪʃn/",
+      "record_sha256": "5d3c8540fbef802264792c18b1ed32d5d661b9c7534240e0d995d222b61935b2"
+    },
+    {
+      "query": "dependency",
+      "source_line": 59087,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'pendənsi/",
+      "record_sha256": "d9fdd0b39374d1481132b116c65936cdd1b0972dd9be84cb54d1a5f801989b4d"
+    },
+    {
+      "query": "deployment",
+      "source_line": 59144,
+      "source_sense": 1,
+      "phon_uk": "/dɪ'plɔɪmənt/",
+      "record_sha256": "832fdc33424417dc851f96042511063490a46d580298d097b259535907cfb104"
+    },
+    {
+      "query": "deploy",
+      "source_line": 59160,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'plɔɪ/",
+      "record_sha256": "b486e9ada7e68481e2e92e40088a45019eefca53e4bb503f1b65ee54f154f2a6"
+    },
+    {
+      "query": "derive",
+      "source_line": 59322,
+      "source_sense": 1,
+      "phon_uk": "/dɪ'raɪv/",
+      "record_sha256": "3661bf76378aed3461f59d0dfcba33b2404ebfca09f48a6e7fd67e96d5245def"
+    },
+    {
+      "query": "design",
+      "source_line": 59561,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'zaɪn/",
+      "record_sha256": "97c2cd2f18dbe2e74922b0aba78d461b32b2051cfc683195e7f4385ff8aa2174"
+    },
+    {
+      "query": "detail",
+      "source_line": 59794,
+      "source_sense": 0,
+      "phon_uk": "/'diːteɪl/",
+      "record_sha256": "de7e4eb718a5bb7144d3cbb6eb08f7598ec674f44117c5fe7e98a6fc3e792d33"
+    },
+    {
+      "query": "develop",
+      "source_line": 59993,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'veləp/",
+      "record_sha256": "733a6a49197e680efa0870e90b6c93c1f4bd47821c09b9382f1bd59fc9e5fc39"
+    },
+    {
+      "query": "developer",
+      "source_line": 60012,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'veləpə(r)/",
+      "record_sha256": "c7b6a2519447f4e7db7f51eee3fdce0270a025a93b08c7eabfb61cdcbbc5ec0e"
+    },
+    {
+      "query": "development",
+      "source_line": 60025,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'veləpmənt/",
+      "record_sha256": "7eedaafeaa3575becbb21c77d78e05af476fbcfaa285180b9b86b86f1b6bb5e4"
+    },
+    {
+      "query": "dictionary",
+      "source_line": 60722,
+      "source_sense": 0,
+      "phon_uk": "/'dɪkʃənri/",
+      "record_sha256": "18a6457d1f46004cae9d5a855cf702b9cad057d13df74a6d3effeefe5d7c16db"
+    },
+    {
+      "query": "difference",
+      "source_line": 60874,
+      "source_sense": 3,
+      "phon_uk": "/'dɪfrəns/",
+      "record_sha256": "d511614ecf4852798635094853625f0361c2130bfb992dc4466ba1c11f6a31bd"
+    },
+    {
+      "query": "directory",
+      "source_line": 61657,
+      "source_sense": 0,
+      "phon_uk": "/də'rektəri/",
+      "record_sha256": "6de28e69bb7754327d2707d944d163f0602bebf9161b0c2a65a865f1950ed3f1"
+    },
+    {
+      "query": "display",
+      "source_line": 62421,
+      "source_sense": 0,
+      "phon_uk": "/dɪ'spleɪ/",
+      "record_sha256": "61f90266c74bbe7a8ec6bb11952a029c7bd6adaaa5cc2bf55f080367d446829a"
+    },
+    {
+      "query": "document",
+      "source_line": 63145,
+      "source_sense": 0,
+      "phon_uk": "/'dɒkjumənt/",
+      "record_sha256": "f2dee773338ac1d57ba70e0c59f0a0672e88f3e773ae2fbd41362dd8e02b40bd"
+    },
+    {
+      "query": "dog",
+      "source_line": 63170,
+      "source_sense": 0,
+      "phon_uk": "/dɒɡ/",
+      "record_sha256": "f69f8a995cee581ebaa9978ace4df0f3c3a087f45f2c61794f8a7db67517a014"
+    },
+    {
+      "query": "door",
+      "source_line": 63478,
+      "source_sense": 0,
+      "phon_uk": "/dɔː(r)/",
+      "record_sha256": "254b83fb1db514ee662734ca7b6cc47ae5f262ce1c46ba8207254ee35c054b3f"
+    },
+    {
+      "query": "download",
+      "source_line": 63907,
+      "source_sense": 0,
+      "phon_uk": "/ˌdaʊn'ləʊd/",
+      "record_sha256": "f58dc0bf3f6d9689098392ac12f7f66cacb51e79e0a3313642b242233a5fcdd2"
+    },
+    {
+      "query": "duration",
+      "source_line": 64981,
+      "source_sense": 0,
+      "phon_uk": "/dju'reɪʃn/",
+      "record_sha256": "a48cf1468ee03cc63fe68f481f857b7e933e43580cfc1d99a00761d7b3f15eb1"
+    },
+    {
+      "query": "dynamic",
+      "source_line": 65128,
+      "source_sense": 0,
+      "phon_uk": "/daɪ'næmɪk/",
+      "record_sha256": "c90e28bc45c862b7f37eb1038f1cc13d880ef73e1400baf98c743aff108fb55b"
+    },
+    {
+      "query": "earth",
+      "source_line": 65402,
+      "source_sense": 0,
+      "phon_uk": "/ɜːθ/",
+      "record_sha256": "999effe46c7aedb23cc3f9d4e363545ee368e1edbdcf5ee519e56d7e138d7f5f"
+    },
+    {
+      "query": "edit",
+      "source_line": 65946,
+      "source_sense": 0,
+      "phon_uk": "/'edɪt/",
+      "record_sha256": "3dd1c5bd29c378ecce3f58573e7525cf87dff8d4bd2654f1234d99de5a990cbf"
+    },
+    {
+      "query": "effect",
+      "source_line": 66010,
+      "source_sense": 0,
+      "phon_uk": "/ɪ'fekt/",
+      "record_sha256": "91c476b4be6f16302525d67418122abc2b24fbf7ceb970b9e36c55b76d9feb5f"
+    },
+    {
+      "query": "efficient",
+      "source_line": 66048,
+      "source_sense": 1,
+      "phon_uk": "/ɪ'fɪʃnt/",
+      "record_sha256": "53ed46e309ac60a1ab39e308d151147730bb393378233196618d61230c4866bf"
+    },
+    {
+      "query": "element",
+      "source_line": 66752,
+      "source_sense": 0,
+      "phon_uk": "/'elɪmənt/",
+      "record_sha256": "c0b973ac071a9f13fe7cde2ce246595dbbd0bc66f2205572b2c16010b4a96bfa"
+    },
+    {
+      "query": "empty",
+      "source_line": 67342,
+      "source_sense": 0,
+      "phon_uk": "/'empti/",
+      "record_sha256": "5afdf64fec8135546c5ab69f046085f20b840426d51ced2e455dffc1fde97117"
+    },
+    {
+      "query": "encode",
+      "source_line": 67531,
+      "source_sense": 0,
+      "phon_uk": "/ɪn'kəʊd/",
+      "record_sha256": "c6d26c0a993b1169edeb99160afae828930e23670c824f4c30194f2ccaac09e7"
+    },
+    {
+      "query": "end",
+      "source_line": 67586,
+      "source_sense": 0,
+      "phon_uk": "/end/",
+      "record_sha256": "77bd64508abdf7b1a8d33872e8fb47518db627b7ef446eb2bfa0992179cb4efc"
+    },
+    {
+      "query": "engine",
+      "source_line": 67917,
+      "source_sense": 0,
+      "phon_uk": "/'endʒɪn/",
+      "record_sha256": "685e4ef9a1f9b817b9ae415ef9a458481951f4ae8afaea00db89d4f5c878ca3c"
+    },
+    {
+      "query": "entry",
+      "source_line": 68337,
+      "source_sense": 1,
+      "phon_uk": "/'entri/",
+      "record_sha256": "24d982bc809cf28d23e7fb20711aa4c5519052f5e4cd63639f5d4fcec709160a"
+    },
+    {
+      "query": "environment",
+      "source_line": 68385,
+      "source_sense": 1,
+      "phon_uk": "/ɪn'vaɪrənmənt/",
+      "record_sha256": "a87457eedd1fbaf44f9992038cd260ce8a22702c782c1cbff7a7e41a8493707d"
+    },
+    {
+      "query": "equal",
+      "source_line": 68942,
+      "source_sense": 0,
+      "phon_uk": "/'iːkwəl/",
+      "record_sha256": "5cd038c3d1c381e2d736a0e3a9dc663d8bb8de0e7a5f3e60521ed842ecdb2317"
+    },
+    {
+      "query": "equality",
+      "source_line": 68970,
+      "source_sense": 1,
+      "phon_uk": "/i'kwɒləti/",
+      "record_sha256": "0c19f550686837fbe60c288dbd9332a8c031da93a921a0091099e9b1649647a2"
+    },
+    {
+      "query": "error",
+      "source_line": 69288,
+      "source_sense": 0,
+      "phon_uk": "/'erə(r)/",
+      "record_sha256": "7145fee68d338b8b500e90b0590a1bc28c5743b9d743fb3c04d8ee3e4de3596b"
+    },
+    {
+      "query": "escape",
+      "source_line": 69405,
+      "source_sense": 0,
+      "phon_uk": "/ɪ'skeɪp/",
+      "record_sha256": "5a47aa52336365e57c9dfd72d6a1af57e2add699f0b52cd5450e49e46f8b1ec7"
+    },
+    {
+      "query": "evaluate",
+      "source_line": 70192,
+      "source_sense": 0,
+      "phon_uk": "/ɪ'væljueɪt/",
+      "record_sha256": "929ac9baf0c3093f2e45032979a11d0abc3974ef89997855af6638cafb289e55"
+    },
+    {
+      "query": "event",
+      "source_line": 70273,
+      "source_sense": 0,
+      "phon_uk": "/ɪ'vent/",
+      "record_sha256": "006b65ccd3c48f40d4a997306e89642a3daaa70a7694be4692d5281fc8000f3f"
+    },
+    {
+      "query": "example",
+      "source_line": 70454,
+      "source_sense": 0,
+      "phon_uk": "/ɪɡ'zɑːmpl/",
+      "record_sha256": "71a98a13067fb38c5c9b5a995bf2e05fdbebbdbab5fd12e7c9cf54a87119525b"
+    },
+    {
+      "query": "exception",
+      "source_line": 70512,
+      "source_sense": 0,
+      "phon_uk": "/ɪk'sepʃn/",
+      "record_sha256": "17fb8960a9364291ac652a5695a21699417be961b1f8f24d62a7e4d41b9e0d31"
+    },
+    {
+      "query": "execution",
+      "source_line": 70698,
+      "source_sense": 0,
+      "phon_uk": "/ˌeksɪ'kjuːʃn/",
+      "record_sha256": "471d46ce04362f575bc80c228099363606b7f927fa7df96d3f2189e79ce90c20"
+    },
+    {
+      "query": "expression",
+      "source_line": 71241,
+      "source_sense": 0,
+      "phon_uk": "/ɪk'spreʃn/",
+      "record_sha256": "4f559fc5dee4734a0d6a420b660ed9c9288fbe07553cc47df6f702d7fbe1e97b"
+    },
+    {
+      "query": "extend",
+      "source_line": 71316,
+      "source_sense": 1,
+      "phon_uk": "/ɪk'stend/",
+      "record_sha256": "6d43a6020e04026a059673a293908e26eb55bdcbe0a260185cf0668ad9b67e13"
+    },
+    {
+      "query": "extension",
+      "source_line": 71348,
+      "source_sense": 1,
+      "phon_uk": "/ɪk'stenʃn/",
+      "record_sha256": "86ec0fa42e217b4c6993385c1cee81dc4007184c6af9db460c1c858a880d7ea6"
+    },
+    {
+      "query": "external",
+      "source_line": 71355,
+      "source_sense": 0,
+      "phon_uk": "/ɪk'stɜːnl/",
+      "record_sha256": "6745954acfb951428f37dd72c03902b2613180639f724f259413a7ab7c900870"
+    },
+    {
+      "query": "eye",
+      "source_line": 71610,
+      "source_sense": 0,
+      "phon_uk": "/aɪ/",
+      "record_sha256": "bdb56c4c0ee9b2ba28007dfb47c7670102998c391231bb688e041e208f308398"
+    },
+    {
+      "query": "false",
+      "source_line": 72119,
+      "source_sense": 0,
+      "phon_uk": "/fɔːls/",
+      "record_sha256": "834e51349f1c2ea5646e318841244e632f253e23fc68d95bd1260dbe99e36cce"
+    },
+    {
+      "query": "family",
+      "source_line": 72169,
+      "source_sense": 0,
+      "phon_uk": "/'fæməli/",
+      "record_sha256": "674f11dcc791a42069bc99906bd6cc8def79cc92e5b105a81f5f54f75ed901c3"
+    },
+    {
+      "query": "father",
+      "source_line": 72517,
+      "source_sense": 0,
+      "phon_uk": "/'fɑːðə(r)/",
+      "record_sha256": "f14e408d600b1951dbfe5ab4029daeb89baddab28d8949eae743610a0753aeaa"
+    },
+    {
+      "query": "filter",
+      "source_line": 73837,
+      "source_sense": 0,
+      "phon_uk": "/'fɪltə(r)/",
+      "record_sha256": "2ca49bcc830c037721e22fafb9d67439e4cc2a87542c331755f60e1df610d417"
+    },
+    {
+      "query": "final",
+      "source_line": 73870,
+      "source_sense": 1,
+      "phon_uk": "/'faɪnl/",
+      "record_sha256": "8ccfdcc5e0d5e08170b7b45d184132f56b0c1aaad4857ac520a15c9d830927c5"
+    },
+    {
+      "query": "find",
+      "source_line": 73900,
+      "source_sense": 0,
+      "phon_uk": "/faɪnd/",
+      "record_sha256": "865ccabcc9b75dd00f4856b9268a0b6b2175fa04c2f6b04a378999cf2b7d2778"
+    },
+    {
+      "query": "finish",
+      "source_line": 73984,
+      "source_sense": 0,
+      "phon_uk": "/'fɪnɪʃ/",
+      "record_sha256": "e6bf5df8f705c22980b49b3ad566c0c14ec2ef050d05de71a9e82e1747e5fcf2"
+    },
+    {
+      "query": "fire",
+      "source_line": 74069,
+      "source_sense": 0,
+      "phon_uk": "/'faɪə(r)/",
+      "record_sha256": "3c1c0466e63ff52e7ceb04f3c600bf52ab517c4c04ce7bc05a042fab7ad70659"
+    },
+    {
+      "query": "fish",
+      "source_line": 74250,
+      "source_sense": 0,
+      "phon_uk": "/fɪʃ/",
+      "record_sha256": "b17fc07727a8ec14bc85477d556f2cd0d4cdc8a5b36d1c5ae742828ca362870f"
+    },
+    {
+      "query": "float",
+      "source_line": 75025,
+      "source_sense": 3,
+      "phon_uk": "/fləʊt/",
+      "record_sha256": "29b929e9fe7d015eef04888487cd2151c820a89b4b831579116f942361045bf9"
+    },
+    {
+      "query": "flow",
+      "source_line": 75217,
+      "source_sense": 0,
+      "phon_uk": "/fləʊ/",
+      "record_sha256": "c155e6e90e1f8d748101372186ae94073555baafbd00a088acf4137924d5b4b4"
+    },
+    {
+      "query": "folder",
+      "source_line": 75699,
+      "source_sense": 0,
+      "phon_uk": "/'fəʊldə(r)/",
+      "record_sha256": "c4aac4ad6cfcd42802cd6c3539e832821ce70faf05893f03223d0bfa2eaa4255"
+    },
+    {
+      "query": "food",
+      "source_line": 75802,
+      "source_sense": 0,
+      "phon_uk": "/fuːd/",
+      "record_sha256": "06fbeb851f509d61831dd8130c48c6ec6fc1a73a3214c98b33b98458a03fbdef"
+    },
+    {
+      "query": "for example",
+      "source_line": 75995,
+      "source_sense": 0,
+      "phon_uk": null,
+      "record_sha256": "fe43f3e74232c7fcd116569b221017df04ac2875cab4fbde65725b682433f5c9"
+    },
+    {
+      "query": "format",
+      "source_line": 76371,
+      "source_sense": 0,
+      "phon_uk": "/'fɔːmæt/",
+      "record_sha256": "200768bf11dabbe6238685dc13ffdd411f86b2b128fef1f072e1466d0a028744"
+    },
+    {
+      "query": "framework",
+      "source_line": 76815,
+      "source_sense": 0,
+      "phon_uk": "/'freɪmwɜːk/",
+      "record_sha256": "5a1b55db7e156d4a60e0511232b1ea65ae69a18f5acdbb5b2cd04823ddeaf6e9"
+    },
+    {
+      "query": "freedom",
+      "source_line": 76991,
+      "source_sense": 0,
+      "phon_uk": "/'friːdəm/",
+      "record_sha256": "67c924eeb3f1090cbdc2b05b3e507bc968ce7b90ee2fb82eb83353201806b7e4"
+    },
+    {
+      "query": "friend",
+      "source_line": 77158,
+      "source_sense": 0,
+      "phon_uk": "/frend/",
+      "record_sha256": "127bbdc903d924cd6e105db6b212a9afa54a5e9b9820085d2eab82d218927a01"
+    },
+    {
+      "query": "fruit",
+      "source_line": 77456,
+      "source_sense": 1,
+      "phon_uk": "/fruːt/",
+      "record_sha256": "6cef6ede1a4c19258e46e6589624a48fd3998a9fd26e18c0fe3b9d119990adf1"
+    },
+    {
+      "query": "function",
+      "source_line": 77726,
+      "source_sense": 0,
+      "phon_uk": "/'fʌŋkʃn/",
+      "record_sha256": "f808864295143e8d4546a4701b123101cdc3b884a92a1a4b8720f843f7060d2d"
+    },
+    {
+      "query": "generate",
+      "source_line": 79338,
+      "source_sense": 0,
+      "phon_uk": "/'dʒenəreɪt/",
+      "record_sha256": "cc8425ee9dfdb2fbeaefbe9510accca2225ed5852e5f2bbad187e8d4a6eaf637"
+    },
+    {
+      "query": "generic",
+      "source_line": 79391,
+      "source_sense": 1,
+      "phon_uk": "/dʒə'nerɪk/",
+      "record_sha256": "8483674eeaa043900b948243c8c8101b3c45f5ebc3186c2c376b0dc34673b549"
+    },
+    {
+      "query": "global",
+      "source_line": 80550,
+      "source_sense": 1,
+      "phon_uk": "/'ɡləʊbl/",
+      "record_sha256": "c84c93262f09baef20bd5613aa4c3810d04327684f36d9fddd75ded13d8e3637"
+    },
+    {
+      "query": "go",
+      "source_line": 81013,
+      "source_sense": 1,
+      "phon_uk": "/ɡəʊ/",
+      "record_sha256": "b1890023c49020a043b144e09d18acc9712505ccc7b41605f67d84c4896faa2d"
+    },
+    {
+      "query": "good",
+      "source_line": 81429,
+      "source_sense": 0,
+      "phon_uk": "/ɡʊd/",
+      "record_sha256": "b24599e0c65c78d34e68dca5b24e754e68be324ee691e2d009aff5d4b83409d9"
+    },
+    {
+      "query": "grammar",
+      "source_line": 81826,
+      "source_sense": 2,
+      "phon_uk": "/'ɡræmə(r)/",
+      "record_sha256": "836f90cb441ce897b25e06ac9ddfe25bdebdd6904dada2f59e60afe1cf1023e7"
+    },
+    {
+      "query": "grape",
+      "source_line": 82023,
+      "source_sense": 0,
+      "phon_uk": "/ɡreɪp/",
+      "record_sha256": "1567de8e536bc81a7deda8b206717b6ee3e7331113b89b05fde94371c795cf74"
+    },
+    {
+      "query": "green",
+      "source_line": 82299,
+      "source_sense": 0,
+      "phon_uk": "/ɡriːn/",
+      "record_sha256": "bad7c323eec17e0b5a4eea52492ab964664b769ff9993466178363955253b1c3"
+    },
+    {
+      "query": "hand",
+      "source_line": 84054,
+      "source_sense": 0,
+      "phon_uk": "/hænd/",
+      "record_sha256": "20a7ba2f638fe85bba1ca0828e013706624edd7f8a1e3c95f185398db501ee18"
+    },
+    {
+      "query": "handle",
+      "source_line": 84151,
+      "source_sense": 0,
+      "phon_uk": "/'hændl/",
+      "record_sha256": "5018ad9d7546c7c356d99139e4fd3f89e54537a52b088f7c9297c77f59bf7e0a"
+    },
+    {
+      "query": "happy",
+      "source_line": 84341,
+      "source_sense": 0,
+      "phon_uk": "/'hæpi/",
+      "record_sha256": "78de248ecaeac166de2214f32becc8525135b11d7ca914e59dcc14a602346397"
+    },
+    {
+      "query": "hardware",
+      "source_line": 84490,
+      "source_sense": 0,
+      "phon_uk": "/'hɑːdweə(r)/",
+      "record_sha256": "239e3da7b6d5f47298f144e7ce7d7bc638e50f3540a7a39775397126524a5997"
+    },
+    {
+      "query": "hash",
+      "source_line": 84643,
+      "source_sense": 0,
+      "phon_uk": "/hæʃ/",
+      "record_sha256": "0e6fba21451d90c4827b5c960980b865da041da48e27e7b4b0daf27bbaabb326"
+    },
+    {
+      "query": "head",
+      "source_line": 84890,
+      "source_sense": 0,
+      "phon_uk": "/hed/",
+      "record_sha256": "3abe03fb8fb2d9a89cea1c72c30cc2dece77302149975fd71f45001c934f4c83"
+    },
+    {
+      "query": "header",
+      "source_line": 84957,
+      "source_sense": 0,
+      "phon_uk": "/'hedə(r)/",
+      "record_sha256": "ad266af929eccccbfb91a4d3f4abe765d2246a866a95232f08c40860f5a68cc2"
+    },
+    {
+      "query": "heap",
+      "source_line": 85031,
+      "source_sense": 0,
+      "phon_uk": "/hiːp/",
+      "record_sha256": "e6dd9f0a1f6873054ae216d448d2af1f2a0b78cf7868a9b8ddeb19a060ef8df5"
+    },
+    {
+      "query": "health",
+      "source_line": 85037,
+      "source_sense": 0,
+      "phon_uk": "/helθ/",
+      "record_sha256": "8325b79fbb04fd1522757f0fa0668b46a8c9b68dcfc5b9d17f2bc5ff83ed1052"
+    },
+    {
+      "query": "heart",
+      "source_line": 85063,
+      "source_sense": 0,
+      "phon_uk": "/hɑːt/",
+      "record_sha256": "34ed8a94ed960f2b73d70220a8d928720cf3d3c41cd9a6652cae89522704945a"
+    },
+    {
+      "query": "hello",
+      "source_line": 85508,
+      "source_sense": 0,
+      "phon_uk": "/hə'ləʊ/",
+      "record_sha256": "612579226c694a91d4ef4979058fda35af16c3b7149c8f1b36824a38877c5d25"
+    },
+    {
+      "query": "help",
+      "source_line": 85555,
+      "source_sense": 0,
+      "phon_uk": "/help/",
+      "record_sha256": "14247d5f0b234e49b93106116abf59b5f3ab94db0f195207b9c1a3ea3587ea64"
+    },
+    {
+      "query": "history",
+      "source_line": 87232,
+      "source_sense": 0,
+      "phon_uk": "/'hɪstri/",
+      "record_sha256": "ef0ed594dd760c08f2bcca528712eec93f82ebeacb483f9c15a2b9ae49243825"
+    },
+    {
+      "query": "home",
+      "source_line": 87640,
+      "source_sense": 0,
+      "phon_uk": "/həʊm/",
+      "record_sha256": "ee3b260776bc68fc7cb7f12e788abb45672fd110aa5e635fc97f7ce701e8448f"
+    },
+    {
+      "query": "horse",
+      "source_line": 88292,
+      "source_sense": 0,
+      "phon_uk": "/hɔːs/",
+      "record_sha256": "1decbaa603386089a04d97825ced48831da21b4bc90708a0b7b11a8b8b91fd3f"
+    },
+    {
+      "query": "hot",
+      "source_line": 88421,
+      "source_sense": 0,
+      "phon_uk": "/hɒt/",
+      "record_sha256": "68f6698050732eafe5ce6364e0ce16ca9372b1064dd95f4d9342b419c77daac4"
+    },
+    {
+      "query": "house",
+      "source_line": 88509,
+      "source_sense": 0,
+      "phon_uk": "/haʊs/",
+      "record_sha256": "bf77317861a077a51828f60dcc3f50345a75591c3f2efe4e83a6eb372c9daa7e"
+    },
+    {
+      "query": "human",
+      "source_line": 88749,
+      "source_sense": 0,
+      "phon_uk": "/'hjuːmən/",
+      "record_sha256": "fd57444ef0659c205125680b34e0b6c3d49a5e768d2ac9cb03ecbdd6b158e773"
+    },
+    {
+      "query": "identity",
+      "source_line": 90878,
+      "source_sense": 0,
+      "phon_uk": "/aɪ'dentəti/",
+      "record_sha256": "828498f44ee86172ad358b70188767350e3162556915d575ff1b9f6097c0b03e"
+    },
+    {
+      "query": "ignore",
+      "source_line": 91084,
+      "source_sense": 0,
+      "phon_uk": "/ɪɡ'nɔː(r)/",
+      "record_sha256": "0db6b2682e5df790c5ac69e7421b3d61d81afc23ac91752ddeb2ca361d1ce275"
+    },
+    {
+      "query": "image",
+      "source_line": 91240,
+      "source_sense": 0,
+      "phon_uk": "/'ɪmɪdʒ/",
+      "record_sha256": "85f0b5856d8196fb29f75da8e4205cebd0b895dd4a8db540c7e6817bc8688712"
+    },
+    {
+      "query": "implementation",
+      "source_line": 91761,
+      "source_sense": 1,
+      "phon_uk": "/ˌɪmplɪmen'teɪʃn/",
+      "record_sha256": "db1185f678432bbedf20ed9294ca3c7cf3f403bd09ebeef69be4399731d32a25"
+    },
+    {
+      "query": "implement",
+      "source_line": 91783,
+      "source_sense": 0,
+      "phon_uk": "/'ɪmplɪment/",
+      "record_sha256": "cc27d2a4b8cedf697aa950dceadfb01082b0594f0d0ecdb143514fdf58ee37ac"
+    },
+    {
+      "query": "in general",
+      "source_line": 92111,
+      "source_sense": 0,
+      "phon_uk": null,
+      "record_sha256": "3b03e92dfc48fa61fa7620af788fe223f1b412ccf5dffbf23b82d0b19ea4c632"
+    },
+    {
+      "query": "information",
+      "source_line": 93541,
+      "source_sense": 0,
+      "phon_uk": "/ˌɪnfə'meɪʃn/",
+      "record_sha256": "ad5833aa8ca8c0f941d0b74e7948b7a9f461f29719c998a9bd0a4f823a23dd94"
+    },
+    {
+      "query": "land",
+      "source_line": 100167,
+      "source_sense": 0,
+      "phon_uk": "/lænd/",
+      "record_sha256": "79059b951d147f08f61093ff0a56736e9534d03c6e614f77d59775d2274f65f1"
+    },
+    {
+      "query": "language",
+      "source_line": 100287,
+      "source_sense": 0,
+      "phon_uk": "/'læŋɡwɪdʒ/",
+      "record_sha256": "93145e327d84f694e001dafb2d794c0dbde486f30ebbbeb11e54100c5d7be55c"
+    },
+    {
+      "query": "leaf",
+      "source_line": 101106,
+      "source_sense": 0,
+      "phon_uk": "/liːf/",
+      "record_sha256": "4d6e0450f4b18f2d4e3e4acfab07953320ba23920eb83bf2fadd7a0fc096a4a1"
+    },
+    {
+      "query": "learning",
+      "source_line": 101180,
+      "source_sense": 0,
+      "phon_uk": "/'lɜːnɪŋ/",
+      "record_sha256": "884c7744504f14aec245f67bc580b1fd8cf1e6b354523d2a840a3915cab6ce66"
+    },
+    {
+      "query": "learn",
+      "source_line": 101188,
+      "source_sense": 0,
+      "phon_uk": "/lɜːn/",
+      "record_sha256": "62e4392273d8af9bd85150eb066342dc1696402bf6f75f790e18a7d7b96d042c"
+    },
+    {
+      "query": "leave",
+      "source_line": 101236,
+      "source_sense": 0,
+      "phon_uk": "/liːv/",
+      "record_sha256": "0ac230b73489b6bfe7aeed7cfb08babd3aeaa8748a7725984200e3a9d38151f2"
+    },
+    {
+      "query": "leaves",
+      "source_line": 101268,
+      "source_sense": 0,
+      "phon_uk": "/liːvz/",
+      "record_sha256": "d09fc939cf28e2b81cd99ffa1e3c91bcf94da6e151cd05735a5a62d6030eca63"
+    },
+    {
+      "query": "lemon",
+      "source_line": 101529,
+      "source_sense": 1,
+      "phon_uk": "/'lemən/",
+      "record_sha256": "a5b50fe34fbae8d9a8af5922df097154c175ccf6a23d46c95cd4561191abcb45"
+    },
+    {
+      "query": "life",
+      "source_line": 102257,
+      "source_sense": 0,
+      "phon_uk": "/laɪf/",
+      "record_sha256": "2163c70bc18a8bd3df09aceabcdb4f6929c672146543c86c292e9ed76df38b04"
+    },
+    {
+      "query": "light",
+      "source_line": 102353,
+      "source_sense": 0,
+      "phon_uk": "/laɪt/",
+      "record_sha256": "b7f9854bc34805e2ea78bd47f5ded72bc05aade49598f84a948fdc4c8aab0b30"
+    },
+    {
+      "query": "listen",
+      "source_line": 103118,
+      "source_sense": 0,
+      "phon_uk": "/'lɪsn/",
+      "record_sha256": "76bd9b9072371b3076b8a4d4c98d5666decc88f3685aa61b182f83e9bcbc7f73"
+    },
+    {
+      "query": "live",
+      "source_line": 103357,
+      "source_sense": 0,
+      "phon_uk": "/lɪv/",
+      "record_sha256": "fba03ca37bd4744e4df07b9c6af9f648055b3be31cea2169937e7682abc0b7c3"
+    },
+    {
+      "query": "long",
+      "source_line": 103815,
+      "source_sense": 2,
+      "phon_uk": "/lɒŋ/",
+      "record_sha256": "496835891bcaf666c6a008989430b01cf272b9bebb9d8a7760635f3ecad7ebf1"
+    },
+    {
+      "query": "look",
+      "source_line": 103944,
+      "source_sense": 0,
+      "phon_uk": "/lʊk/",
+      "record_sha256": "42835be30393ebf424d470b4e8aa9e703971b1753c73126cee43dfbc9851c088"
+    },
+    {
+      "query": "love",
+      "source_line": 104215,
+      "source_sense": 1,
+      "phon_uk": "/lʌv/",
+      "record_sha256": "dbde4b7188a36afce5ebffb38748bda46d229a6f3add733625acde669fb9c923"
+    },
+    {
+      "query": "man",
+      "source_line": 106156,
+      "source_sense": 0,
+      "phon_uk": "/mæn/",
+      "record_sha256": "cc4b16af60de10823c968377544f5182dc109fae73fca7cbc14cc8eb1d1ed9a8"
+    },
+    {
+      "query": "milk",
+      "source_line": 110247,
+      "source_sense": 0,
+      "phon_uk": "/mɪlk/",
+      "record_sha256": "be01dbc76346cf81cc4d9abef92ed4c778c947c7e0f0880f8f97a36f75d62f17"
+    },
+    {
+      "query": "mind",
+      "source_line": 110483,
+      "source_sense": 1,
+      "phon_uk": "/maɪnd/",
+      "record_sha256": "7ad4649b3a3666bcfb307af7684392275ab0705fb346ffddd883ecd50a609161"
+    },
+    {
+      "query": "money",
+      "source_line": 111799,
+      "source_sense": 0,
+      "phon_uk": "/'mʌni/",
+      "record_sha256": "19571e74d7b5d7b745401d6a521b4f95fa78881d193bafa22537f3da4a7ba0ec"
+    },
+    {
+      "query": "moon",
+      "source_line": 112335,
+      "source_sense": 0,
+      "phon_uk": "/muːn/",
+      "record_sha256": "014a7facc2e7165176de4ee3dd8ebbbc22d2d8a03a8e26e72e9318f7c5eda7de"
+    },
+    {
+      "query": "mother",
+      "source_line": 112745,
+      "source_sense": 0,
+      "phon_uk": "/'mʌðə(r)/",
+      "record_sha256": "de7df99dbfff39ff35e9e61b1faff90b04dee45e0916413c0f16e082fc6fbeef"
+    },
+    {
+      "query": "mountain",
+      "source_line": 112906,
+      "source_sense": 0,
+      "phon_uk": "/'maʊntən/",
+      "record_sha256": "46a11c90aa85ff7a07722b657e7e2748035cf014d9f60d730109c00f450523b9"
+    },
+    {
+      "query": "mouse",
+      "source_line": 112936,
+      "source_sense": 0,
+      "phon_uk": "/maʊs/",
+      "record_sha256": "23bb4bb34e85c2c14740c76bdb2dafcb48ab1fb8b80ad1aab6f75318f96d9e70"
+    },
+    {
+      "query": "music",
+      "source_line": 113802,
+      "source_sense": 0,
+      "phon_uk": "/'mjuːzɪk/",
+      "record_sha256": "6e249c1cdda82828b5da73f1afb1b65842d3665b732efaf0c4d260f6ec34538c"
+    },
+    {
+      "query": "name",
+      "source_line": 114514,
+      "source_sense": 0,
+      "phon_uk": "/neɪm/",
+      "record_sha256": "4ceafc87999c1c8cb2c15753c3083c61aeb638d855c5889b617dc5b8a184afe0"
+    },
+    {
+      "query": "need",
+      "source_line": 115185,
+      "source_sense": 0,
+      "phon_uk": "/niːd/",
+      "record_sha256": "02bb58ef381a422377beab86a700539f5d5a5b78f0b433958df7902d4be0ab1d"
+    },
+    {
+      "query": "new",
+      "source_line": 116018,
+      "source_sense": 0,
+      "phon_uk": "/njuː/",
+      "record_sha256": "328b8401c693d50d7316190e8d3fa83f6faf2f04c29228ff445944c7546e27f6"
+    },
+    {
+      "query": "night",
+      "source_line": 116286,
+      "source_sense": 0,
+      "phon_uk": "/naɪt/",
+      "record_sha256": "487a7393448abf035a2f3b2412bcbce873b93142dd4a0eaafa566e01a8cc0850"
+    },
+    {
+      "query": "number",
+      "source_line": 118300,
+      "source_sense": 0,
+      "phon_uk": "/'nʌmbə(r)/",
+      "record_sha256": "fa4cab69109bb933191558ebe4209d2b5e0a4be6d3c8951d0ef9cec8959c851c"
+    },
+    {
+      "query": "object",
+      "source_line": 118606,
+      "source_sense": 0,
+      "phon_uk": "/'ɒbdʒɪkt/",
+      "record_sha256": "ec1313e9660b78025773113d7e4273382514c43071d776ae196d586f11fdd097"
+    },
+    {
+      "query": "old",
+      "source_line": 119335,
+      "source_sense": 0,
+      "phon_uk": "/əʊld/",
+      "record_sha256": "57a8d7b8ea5704c70b9552b187146d085e5030167bb5a88bbb31e421ea3e4799"
+    },
+    {
+      "query": "open",
+      "source_line": 119905,
+      "source_sense": 0,
+      "phon_uk": "/'əʊpən/",
+      "record_sha256": "32feb1c78fafefbdfabc2ad47ddd55673c25896f13c6aab2d04a8ae63d33f358"
+    },
+    {
+      "query": "orange",
+      "source_line": 120221,
+      "source_sense": 0,
+      "phon_uk": "/'ɒrɪndʒ/",
+      "record_sha256": "f56ac0508703efbc341c7d9bf3eaad05f9f4f1be5870ff776f41ccecd09fce93"
+    },
+    {
+      "query": "paper",
+      "source_line": 123544,
+      "source_sense": 0,
+      "phon_uk": "/'peɪpə(r)/",
+      "record_sha256": "465d39a43f3c2a1a312cce586a008b48cb78e9308de40497ec1a4e0577bfba1e"
+    },
+    {
+      "query": "path",
+      "source_line": 124798,
+      "source_sense": 2,
+      "phon_uk": "/pɑːθ/",
+      "record_sha256": "41092d4bfe0a85605860860583fd7f6f7276b495e83444067b65532f7139c394"
+    },
+    {
+      "query": "peace",
+      "source_line": 125095,
+      "source_sense": 1,
+      "phon_uk": "/piːs/",
+      "record_sha256": "74d8ef150c68af74e02a3a3154834d1ea2f56e18da151a84187fac30e03d2c15"
+    },
+    {
+      "query": "people",
+      "source_line": 125916,
+      "source_sense": 0,
+      "phon_uk": "/'piːpl/",
+      "record_sha256": "b157753b2b53868e947bb62e67ae4e61083245c2bd6c277d5391bb5a976d4403"
+    },
+    {
+      "query": "person",
+      "source_line": 126625,
+      "source_sense": 0,
+      "phon_uk": "/'pɜːsn/",
+      "record_sha256": "c9f881f26ef8840e86e6b849f42c20aee90df3a3171a5ee4fa355995d11a6721"
+    },
+    {
+      "query": "play",
+      "source_line": 130061,
+      "source_sense": 0,
+      "phon_uk": "/pleɪ/",
+      "record_sha256": "6976e5f30799a6a330b278cde3f7d3d07207b5bd2419e37eaab8997b2b2b4440"
+    },
+    {
+      "query": "potato",
+      "source_line": 132513,
+      "source_sense": 1,
+      "phon_uk": "/pə'teɪtəʊ/",
+      "record_sha256": "f3986a389a40a2d4cd7a2b9676d6ea685dc4061f0b46f8f03a4228565e5f1882"
+    },
+    {
+      "query": "power",
+      "source_line": 132692,
+      "source_sense": 0,
+      "phon_uk": "/'paʊə(r)/",
+      "record_sha256": "30549fcc8db94d0e48587ea0a0f19399dd45f2bc632915a56b7543c1642fe876"
+    },
+    {
+      "query": "problem",
+      "source_line": 134456,
+      "source_sense": 0,
+      "phon_uk": "/'prɒbləm/",
+      "record_sha256": "cdfe9f91037a72c3b957add5c2a3be857f5b812a33201279abffd0c714a72346"
+    },
+    {
+      "query": "process",
+      "source_line": 134501,
+      "source_sense": 0,
+      "phon_uk": "/ˈprəʊses/",
+      "record_sha256": "126a85585a7fc3ed9b374b61c615880924b506d890b94422057ff23a6940047c"
+    },
+    {
+      "query": "processor",
+      "source_line": 134511,
+      "source_sense": 1,
+      "phon_uk": "/'prəʊsesə(r)/",
+      "record_sha256": "bf6a1ececa25becfd3e99041a8708bdd78a4b34d4c1bfcd4fb6d64b64ff3441d"
+    },
+    {
+      "query": "program",
+      "source_line": 134777,
+      "source_sense": 1,
+      "phon_uk": "/'prəʊɡræm/",
+      "record_sha256": "56b1419743a11a08c412cd9ddbf18be271c1e406933c6c11cdbb057888ac4d74"
+    },
+    {
+      "query": "progress",
+      "source_line": 134814,
+      "source_sense": 0,
+      "phon_uk": "/'prəʊɡres/",
+      "record_sha256": "b2b3ad76ad58801ff5c18000eb381a26ab940b1447a2943a83c4f48ac561be8c"
+    },
+    {
+      "query": "promise",
+      "source_line": 134920,
+      "source_sense": 0,
+      "phon_uk": "/'prɒmɪs/",
+      "record_sha256": "b5d09bdbba6c36a851d4363835cfc8dfcdef815d66d2c877385f25b66f8c9aa7"
+    },
+    {
+      "query": "property",
+      "source_line": 135099,
+      "source_sense": 0,
+      "phon_uk": "/'prɒpəti/",
+      "record_sha256": "033dd34bf30912bd15d37036ca2d1f19eeb2f291bbc79f52a80562a705715021"
+    },
+    {
+      "query": "protocol",
+      "source_line": 135481,
+      "source_sense": 2,
+      "phon_uk": "/'prəʊtəkɒl/",
+      "record_sha256": "7e091a3b774aa2ab35c22fa574f936b0cd18031d8d9f5d7c83cc886676d31952"
+    },
+    {
+      "query": "provide",
+      "source_line": 135632,
+      "source_sense": 0,
+      "phon_uk": "/prə'vaɪd/",
+      "record_sha256": "17dbf658cca057a62e84d46aa96e900679b8d6b2958567e7c0eb5cf1e302d99f"
+    },
+    {
+      "query": "query",
+      "source_line": 137851,
+      "source_sense": 0,
+      "phon_uk": "/'kwɪəri/",
+      "record_sha256": "012bfe007099a0f3f8d7d7e67affa4c6512cc0e3c723c5282295c1e47289fc31"
+    },
+    {
+      "query": "question",
+      "source_line": 137860,
+      "source_sense": 0,
+      "phon_uk": "/'kwestʃən/",
+      "record_sha256": "603ea401801a221e3555471130027bac44b2a156d732e85cb07d3e308b838d2b"
+    },
+    {
+      "query": "queue",
+      "source_line": 137876,
+      "source_sense": 0,
+      "phon_uk": "/kjuː/",
+      "record_sha256": "9195d7151e433ebb6fe5de7e67ea2537f32bae6f577813e5c972496f1e9031c7"
+    },
+    {
+      "query": "random",
+      "source_line": 138985,
+      "source_sense": 1,
+      "phon_uk": "/'rændəm/",
+      "record_sha256": "9a579f0bad7657fa2ecbb50f3be40fba13875d41cdf2320cc8b72dfe7435b783"
+    },
+    {
+      "query": "range",
+      "source_line": 138999,
+      "source_sense": 0,
+      "phon_uk": "/reɪndʒ/",
+      "record_sha256": "54aa37cf8bcad52c35ae88ddda81c02a77893a6bbe33bb2d715f3085502020db"
+    },
+    {
+      "query": "read",
+      "source_line": 139468,
+      "source_sense": 0,
+      "phon_uk": "/riːd/",
+      "record_sha256": "370974b96af03e0672fe8405290c2ca89bc0f68863b7c7fe2dafeb542c8fb1d8"
+    },
+    {
+      "query": "reader",
+      "source_line": 139483,
+      "source_sense": 0,
+      "phon_uk": "/'riːdə(r)/",
+      "record_sha256": "dd8ce6c6742ef9567b041b8493161677a62ecbf054b78b8f8fe91d1fd0a2ad12"
+    },
+    {
+      "query": "record",
+      "source_line": 140069,
+      "source_sense": 0,
+      "phon_uk": "/rɪˈkɔːd，ˈrekɔːd/",
+      "record_sha256": "45a302ca1c7dbadfa9bf14c33125f6e22ea8f97cec6923af11712e79fa50c17b"
+    },
+    {
+      "query": "red",
+      "source_line": 140222,
+      "source_sense": 0,
+      "phon_uk": "/red/",
+      "record_sha256": "87c3420e10dfa2a63bf92a748e8e59c679a1adb62d6a055451844fe7a2a45966"
+    },
+    {
+      "query": "reference",
+      "source_line": 140582,
+      "source_sense": 0,
+      "phon_uk": "/'refrəns/",
+      "record_sha256": "4ca77d974500c982498c67bb4210624d0d1c68a732deb22611bec95714ac51c2"
+    },
+    {
+      "query": "register",
+      "source_line": 140866,
+      "source_sense": 0,
+      "phon_uk": "/'redʒɪstə(r)/",
+      "record_sha256": "f79e3a944bec1dac45ffaf1fa0ab62ef9ec00bcf935c619fca056ccbafabaee6"
+    },
+    {
+      "query": "regular",
+      "source_line": 140941,
+      "source_sense": 0,
+      "phon_uk": "/'reɡjələ(r)/",
+      "record_sha256": "4b2ea81fa562caf366ca3bde1fecc6a5d9be792e19d83935fd89ac78578a0a57"
+    },
+    {
+      "query": "related",
+      "source_line": 141142,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'leɪtɪd/",
+      "record_sha256": "3ebf007ec7b567ffde07cc28412dfa9af1f4725ca73623274764263257be70bb"
+    },
+    {
+      "query": "release",
+      "source_line": 141211,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'liːs/",
+      "record_sha256": "4365f3b806af7a18300b6065c88931cf9fce5383348de97dabc999b30dfa7245"
+    },
+    {
+      "query": "reliable",
+      "source_line": 141218,
+      "source_sense": 1,
+      "phon_uk": "/rɪ'laɪəbl/",
+      "record_sha256": "9fa93aed6b78f127f08fd973d218942948464a17404cc93249423278e2d0b6ff"
+    },
+    {
+      "query": "remove",
+      "source_line": 141442,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'muːv/",
+      "record_sha256": "5219e21d45ad8b8418bb0fb74a28655c3942cc98134c0a43882effc213a0eeeb"
+    },
+    {
+      "query": "render",
+      "source_line": 141483,
+      "source_sense": 0,
+      "phon_uk": "/'rendə(r)/",
+      "record_sha256": "cc682a6d40f1da7588a32fb3d0337c23e5a25c48b79b4d956acf37934afa5979"
+    },
+    {
+      "query": "require",
+      "source_line": 141890,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'kwaɪə(r)/",
+      "record_sha256": "63ac63d14c9823e8ab8d9d5f53c8029ba03a690e92d8431df2884356d8f93136"
+    },
+    {
+      "query": "request",
+      "source_line": 141894,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'kwest/",
+      "record_sha256": "cadc362f81cd3518e9f8c871504c7d7a1ccb53e4945bf8242c249f2b8aed60bd"
+    },
+    {
+      "query": "resilient",
+      "source_line": 142082,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'zɪliənt/",
+      "record_sha256": "d4fdae9b96a3b1b369f7c9af639b1232e5069425754e7d07fa9bb6c82ec4f4b5"
+    },
+    {
+      "query": "response",
+      "source_line": 142228,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'spɒns/",
+      "record_sha256": "56470b834db78fd8b952d7218932f13abb812867313ab85e3f8c06bb80dbf62a"
+    },
+    {
+      "query": "result",
+      "source_line": 142357,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'zʌlt/",
+      "record_sha256": "60dc2ee6f446963f671adf2e4bf1e17c86e6145feb17b65f0070cd3ac0452c4c"
+    },
+    {
+      "query": "return",
+      "source_line": 142714,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'tɜːn/",
+      "record_sha256": "e38e9ae5f94f35be841aadd4729728c094e406e3db0f834c01f79c13083ba846"
+    },
+    {
+      "query": "reverse",
+      "source_line": 142821,
+      "source_sense": 0,
+      "phon_uk": "/rɪ'vɜːs/",
+      "record_sha256": "9807cd15d5e2ff23fb1588153451a174f91f969bf724db3005e0838e121c8e67"
+    },
+    {
+      "query": "river",
+      "source_line": 143789,
+      "source_sense": 1,
+      "phon_uk": "/'rɪvə(r)/",
+      "record_sha256": "ee32065ddd575dbedd541745b5a84c8c7c4a59db877b32bbb5203be8b708d052"
+    },
+    {
+      "query": "road",
+      "source_line": 143842,
+      "source_sense": 0,
+      "phon_uk": "/rəʊd/",
+      "record_sha256": "c7accc1a71574e72b557738c914da3ac10749d3f65aac329c7e364fdcfb875a6"
+    },
+    {
+      "query": "robust",
+      "source_line": 143946,
+      "source_sense": 0,
+      "phon_uk": "/rəʊ'bʌst/",
+      "record_sha256": "89c11b1a42c6760bbc51ca1e5cdac058c1d49dc2a3282af76d81fd8d6bc134db"
+    },
+    {
+      "query": "root",
+      "source_line": 144284,
+      "source_sense": 0,
+      "phon_uk": "/ruːt/",
+      "record_sha256": "9c736d95714529e51a6728f99df43dcd86a5ff5da327515e0297485dd3b1faa7"
+    },
+    {
+      "query": "route",
+      "source_line": 144670,
+      "source_sense": 0,
+      "phon_uk": "/ruːt/",
+      "record_sha256": "a6b97a1842ac0e7521f2c0aecca933b7c80329cea2b89905bba8aa2a2a3ee62e"
+    },
+    {
+      "query": "run",
+      "source_line": 144989,
+      "source_sense": 0,
+      "phon_uk": "/rʌn/",
+      "record_sha256": "91e32b27253c763b8383fba9f0564c66d7f8d76eff56b706d6438686560fa874"
+    },
+    {
+      "query": "sad",
+      "source_line": 145372,
+      "source_sense": 0,
+      "phon_uk": "/sæd/",
+      "record_sha256": "29d9b61ab3e02aa95364d4ebe874f52cd17f9cae277907f7cc6d03a513385b94"
+    },
+    {
+      "query": "safe",
+      "source_line": 145433,
+      "source_sense": 0,
+      "phon_uk": "/seɪf/",
+      "record_sha256": "89655666a236478419f7d7f93301722788788565e9544113e17db6c219aad97c"
+    },
+    {
+      "query": "safety",
+      "source_line": 145452,
+      "source_sense": 0,
+      "phon_uk": "/'seɪfti/",
+      "record_sha256": "c6f68b5dfd38d4eba6b0b971b95becbebf8de9a777e1dbca0c4c11c3ef4bbd61"
+    },
+    {
+      "query": "sample",
+      "source_line": 145909,
+      "source_sense": 0,
+      "phon_uk": "/'sɑːmpl/",
+      "record_sha256": "8b91b27057a7448b529583b0305a33b33644c941f4fd21be8841ed88c6177df0"
+    },
+    {
+      "query": "save",
+      "source_line": 146545,
+      "source_sense": 0,
+      "phon_uk": "/seɪv/",
+      "record_sha256": "16ea28fef712c27957cebd1aa92473f250f892173157aa3ea0096ab68432f73f"
+    },
+    {
+      "query": "scale",
+      "source_line": 146714,
+      "source_sense": 0,
+      "phon_uk": "/skeɪl/",
+      "record_sha256": "d9597eb41eb253bef5da5725003a2b31fda34a2c9d3bee988794ed25ee6ab846"
+    },
+    {
+      "query": "saw",
+      "source_line": 146737,
+      "source_sense": 0,
+      "phon_uk": "/sɔː/",
+      "record_sha256": "e32a45066e8b1badb7463945a42f368d03bd42a2f85b96383a80d5da491956ed"
+    },
+    {
+      "query": "school",
+      "source_line": 147195,
+      "source_sense": 0,
+      "phon_uk": "/skuːl/",
+      "record_sha256": "ba559c7dfa8dab645460452c89c91d668b510a73f2c8fa55219b676a71df5d27"
+    },
+    {
+      "query": "science",
+      "source_line": 147262,
+      "source_sense": 0,
+      "phon_uk": "/'saɪəns/",
+      "record_sha256": "018a45dba283faddd66e116876c846b86704e0832ba77a7efee1d3d8b13ed784"
+    },
+    {
+      "query": "sea",
+      "source_line": 147946,
+      "source_sense": 0,
+      "phon_uk": "/siː/",
+      "record_sha256": "be797dbf27b8c1cfe8a06e3305e3ad961193793860077a1052898011f306c76e"
+    },
+    {
+      "query": "search",
+      "source_line": 148076,
+      "source_sense": 0,
+      "phon_uk": "/sɜːtʃ/",
+      "record_sha256": "29f7588a2525e426e89c2ad8c0eff7af27b2eb7f58cd554db25d6e903b56ad07"
+    },
+    {
+      "query": "section",
+      "source_line": 148310,
+      "source_sense": 0,
+      "phon_uk": "/'sekʃn/",
+      "record_sha256": "7a7baf3e088e7f435b553e06fe2dd726e6c2ccfd8687de537d891af2fdf0e177"
+    },
+    {
+      "query": "see",
+      "source_line": 148407,
+      "source_sense": 0,
+      "phon_uk": "/siː/",
+      "record_sha256": "421dcbc3eabd6a592fbe0fafbad5fef6f7f67063801eb9eb6a630e45335b8c54"
+    },
+    {
+      "query": "select",
+      "source_line": 148615,
+      "source_sense": 0,
+      "phon_uk": "/sɪ'lekt/",
+      "record_sha256": "419c4f8029397aa29c58223de9dbf52c48c5417fd59af6e64b8bf4c533afc29f"
+    },
+    {
+      "query": "send",
+      "source_line": 149526,
+      "source_sense": 0,
+      "phon_uk": "/send/",
+      "record_sha256": "d363d5c137f418027d1d85553339c70693fb7249935e437f213717dccae69d6c"
+    },
+    {
+      "query": "sentence",
+      "source_line": 149661,
+      "source_sense": 0,
+      "phon_uk": "/'sentəns/",
+      "record_sha256": "05b84b4411dca1c5369da93e17d749c91733c32dc2cdbe545fd7d6ad7222ed93"
+    },
+    {
+      "query": "sequence",
+      "source_line": 149818,
+      "source_sense": 0,
+      "phon_uk": "/'siːkwəns/",
+      "record_sha256": "2ccb2ed1e2f91783d8675930a9fb086eea0156d1e39f62602e2aa610037f50e2"
+    },
+    {
+      "query": "service",
+      "source_line": 150081,
+      "source_sense": 0,
+      "phon_uk": "/'sɜːvɪs/",
+      "record_sha256": "50af6018baa39cda185ba7a103433d91b358b5a96adb0e8cfb72ee3a7af95525"
+    },
+    {
+      "query": "server",
+      "source_line": 150100,
+      "source_sense": 0,
+      "phon_uk": "/'sɜːvə(r)/",
+      "record_sha256": "340542343c2d4638916f3ba689342015fba9b359a3cab9c51c1d4e2c7c47aa41"
+    },
+    {
+      "query": "session",
+      "source_line": 150173,
+      "source_sense": 0,
+      "phon_uk": "/'seʃn/",
+      "record_sha256": "731a83f1602784126ea5ec58204f1a60f18e484217565319ad158887d6251c54"
+    },
+    {
+      "query": "set",
+      "source_line": 150182,
+      "source_sense": 1,
+      "phon_uk": "/set/",
+      "record_sha256": "2ebe70036ceae24e58804a152354aa6bd74760d8d4a0e3649ba9ac8526bdbcf6"
+    },
+    {
+      "query": "share",
+      "source_line": 150593,
+      "source_sense": 2,
+      "phon_uk": "/ʃeə(r)/",
+      "record_sha256": "7a5d687333705c20a82cd491330bef835aa3fc0752219928256d93a0b8ec9df2"
+    },
+    {
+      "query": "short",
+      "source_line": 151225,
+      "source_sense": 0,
+      "phon_uk": "/ʃɔːt/",
+      "record_sha256": "38082e68c96fb8cfdbde30c6989d6afbe85020a388def4f2c3f3610d2f828300"
+    },
+    {
+      "query": "signal",
+      "source_line": 151884,
+      "source_sense": 0,
+      "phon_uk": "/'sɪɡnəl/",
+      "record_sha256": "29a4dd0bad077404f8d57d224029f944ec09ccaaa86c85c8b4f62f390da0a723"
+    },
+    {
+      "query": "simple",
+      "source_line": 152247,
+      "source_sense": 0,
+      "phon_uk": "/'sɪmpl/",
+      "record_sha256": "439f4b9fb3231de43cdcb5ef1058002e144503ddee4c69780151b20fc9832a95"
+    },
+    {
+      "query": "single",
+      "source_line": 152329,
+      "source_sense": 0,
+      "phon_uk": "/'sɪŋɡl/",
+      "record_sha256": "7354eccae62a510480d616d2c4cad524e7e69bebdb4c727f0e89edfc5fba598c"
+    },
+    {
+      "query": "size",
+      "source_line": 152628,
+      "source_sense": 0,
+      "phon_uk": "/saɪz/",
+      "record_sha256": "355c0d15973cc82c6057b60ddda4e9daf8854969fe2448ce41d6c4d98e0d2333"
+    },
+    {
+      "query": "sleep",
+      "source_line": 153159,
+      "source_sense": 0,
+      "phon_uk": "/sliːp/",
+      "record_sha256": "de3aee3c99055e8a85e5b471b3a38a46a8811c06a6f1a5d2258d4ac63c3f8a84"
+    },
+    {
+      "query": "slice",
+      "source_line": 153238,
+      "source_sense": 0,
+      "phon_uk": "/slaɪs/",
+      "record_sha256": "7aa3ad9c720ec50a1adf7cbadf5a2184b3f2e30a588f96f59ba8eb3e7a26bfb9"
+    },
+    {
+      "query": "slow",
+      "source_line": 153464,
+      "source_sense": 0,
+      "phon_uk": "/sləʊ/",
+      "record_sha256": "6a7e80bddf175ae8452ed812b6fcada19519415a6d2a2f250b0c7063c98c69c6"
+    },
+    {
+      "query": "small",
+      "source_line": 153569,
+      "source_sense": 0,
+      "phon_uk": "/smɔːl/",
+      "record_sha256": "51ad69f8c070c1d5ca720c1d053c94868e99020a590d11ca869cf113c6402256"
+    },
+    {
+      "query": "software",
+      "source_line": 154467,
+      "source_sense": 1,
+      "phon_uk": "/'sɒftweə(r)/",
+      "record_sha256": "4e8409076a1075420393773831f8b501b98d3154302aa7f2d931c9dfc6d4d4c1"
+    },
+    {
+      "query": "solution",
+      "source_line": 154711,
+      "source_sense": 2,
+      "phon_uk": "/sə'luːʃn/",
+      "record_sha256": "1fe4130f3182d9afcca292dcfbe8222ebc4b681df4f3a95dd9b105bfb28c8cd4"
+    },
+    {
+      "query": "sort",
+      "source_line": 155110,
+      "source_sense": 0,
+      "phon_uk": "/sɔːt/",
+      "record_sha256": "c113300303b92845d691f844cb97df8366c1f9d2de7a62bb60076718f246a11d"
+    },
+    {
+      "query": "sound",
+      "source_line": 155172,
+      "source_sense": 0,
+      "phon_uk": "/saʊnd/",
+      "record_sha256": "73ab2daaecd647e974d0129458e2348d7bf87e2eca16b4ba5e98a7f24a494838"
+    },
+    {
+      "query": "source",
+      "source_line": 155219,
+      "source_sense": 0,
+      "phon_uk": "/sɔːs/",
+      "record_sha256": "896a05e6e2770d92722b56bf1c5371d2e50f9939c37a7b47bd085f5635da4d23"
+    },
+    {
+      "query": "stack",
+      "source_line": 157292,
+      "source_sense": 0,
+      "phon_uk": "/stæk/",
+      "record_sha256": "88f46fce5289cd410e262f56d9f4304ec99517e38e33817ba6037ce984ee7874"
+    },
+    {
+      "query": "standard",
+      "source_line": 157527,
+      "source_sense": 0,
+      "phon_uk": "/'stændəd/",
+      "record_sha256": "23a82f94acb33baa3d0d4710ab0eff8775b9ceb1f4f869c2e02b52cbb2991102"
+    },
+    {
+      "query": "state",
+      "source_line": 157739,
+      "source_sense": 0,
+      "phon_uk": "/steɪt/",
+      "record_sha256": "3af3c9bea65c0edc32036bee38939295be55cdb78b12562eef80ccbbac4d64da"
+    },
+    {
+      "query": "statement",
+      "source_line": 157745,
+      "source_sense": 0,
+      "phon_uk": "/'steɪtmənt/",
+      "record_sha256": "6f0e9c93b2b64751f15876f13ec55544cdfdbc1dfc73f39437a2a3ca07d9d5aa"
+    },
+    {
+      "query": "static",
+      "source_line": 157789,
+      "source_sense": 0,
+      "phon_uk": "/'stætɪk/",
+      "record_sha256": "d828c25a0e19c60121c4acedff7b434704e538b9e31686cd1e5993983e4a5f01"
+    },
+    {
+      "query": "status",
+      "source_line": 157831,
+      "source_sense": 0,
+      "phon_uk": "/'steɪtəs/",
+      "record_sha256": "2964b4e7dd6012ffea499b2c97efd85b2de163208c8d989abbfd066a331ae084"
+    },
+    {
+      "query": "store",
+      "source_line": 158922,
+      "source_sense": 0,
+      "phon_uk": "/stɔː(r)/",
+      "record_sha256": "3fe0fd755268da6c6c74ada02f700443507b9a3eab99bfa8faea1f03dc8e15d7"
+    },
+    {
+      "query": "stream",
+      "source_line": 159241,
+      "source_sense": 0,
+      "phon_uk": "/striːm/",
+      "record_sha256": "29f799e621b8298f2da4f7ba0531bdf592efe92a940dda0d563ce50a5b0f0fd6"
+    },
+    {
+      "query": "street",
+      "source_line": 159254,
+      "source_sense": 0,
+      "phon_uk": "/striːt/",
+      "record_sha256": "72e1da91ea1b31833e655290e7b726831008be5021d6cbb8ed308d86818030fb"
+    },
+    {
+      "query": "strong",
+      "source_line": 159533,
+      "source_sense": 0,
+      "phon_uk": "/strɒŋ/",
+      "record_sha256": "10681309ea9035d6b5ca9a25300d4e2c2d096a8307b50b48e694fb1badedf841"
+    },
+    {
+      "query": "structure",
+      "source_line": 159601,
+      "source_sense": 0,
+      "phon_uk": "/'strʌktʃə(r)/",
+      "record_sha256": "65bac18a465a45e157613b8e4e008a59d6f16848d134efd4e1c30580f4273aea"
+    },
+    {
+      "query": "study",
+      "source_line": 159692,
+      "source_sense": 0,
+      "phon_uk": "/'stʌdi/",
+      "record_sha256": "34e8437653c712ef92a44a900cd63ee4fa5cd5b2d743c846bba03ebd26a40bfb"
+    },
+    {
+      "query": "style",
+      "source_line": 159782,
+      "source_sense": 0,
+      "phon_uk": "/staɪl/",
+      "record_sha256": "6e06d5baf510dfd149200758eca0d01b814af3ad9fa8f3be819f0fa3c7edbd94"
+    },
+    {
+      "query": "suffix",
+      "source_line": 160877,
+      "source_sense": 0,
+      "phon_uk": "/'sʌfɪks/",
+      "record_sha256": "79594fe17378c93ab9e7f99eacbc7ba9cf11ccbb35c29840029fbb54f4bb9d65"
+    },
+    {
+      "query": "sun",
+      "source_line": 161255,
+      "source_sense": 0,
+      "phon_uk": "/sʌn/",
+      "record_sha256": "dc82cb159bca3c80e92bcce76c22c98cbe704e4a1c0531d968e545e22e5426f0"
+    },
+    {
+      "query": "support",
+      "source_line": 161912,
+      "source_sense": 0,
+      "phon_uk": "/sə'pɔːt/",
+      "record_sha256": "4e7eb11076799964550afaeb785bd4d4b9fdc32fadefdb7e61725f9fc27ddf7e"
+    },
+    {
+      "query": "symbol",
+      "source_line": 162799,
+      "source_sense": 1,
+      "phon_uk": "/'sɪmbl/",
+      "record_sha256": "d6edee733d8dfed9545f121a5ed5b37bbc67898a452c96e709071ad4512b8fc4"
+    },
+    {
+      "query": "syntax",
+      "source_line": 163178,
+      "source_sense": 0,
+      "phon_uk": "/'sɪntæks/",
+      "record_sha256": "c335b4c86d1828239867fff6bcabf6494cf429eefe5bfd0fa1d4135b38c6cbaf"
+    },
+    {
+      "query": "table",
+      "source_line": 163350,
+      "source_sense": 0,
+      "phon_uk": "/'teɪbl/",
+      "record_sha256": "c31ff179ccde4dcb95a10516619214c03175941f03d297cac73bb9c95f5575ff"
+    },
+    {
+      "query": "talk",
+      "source_line": 163803,
+      "source_sense": 0,
+      "phon_uk": "/tɔːk/",
+      "record_sha256": "832adbcd0f6e9bc3c55c55f81be5748331e4da9915c7814cdfd09964ccf563a4"
+    },
+    {
+      "query": "target",
+      "source_line": 164206,
+      "source_sense": 0,
+      "phon_uk": "/'tɑːɡɪt/",
+      "record_sha256": "24b1ce80f7db4eab84aaeb069929c73c2aaa9722a9f124aaf3b588fd4c1ccf05"
+    },
+    {
+      "query": "task",
+      "source_line": 164305,
+      "source_sense": 0,
+      "phon_uk": "/tɑːsk/",
+      "record_sha256": "8ccadfb6a369583de41790f6c2b09c878d056be2bc4993ab9ed20f9cce386ddd"
+    },
+    {
+      "query": "tea",
+      "source_line": 164515,
+      "source_sense": 0,
+      "phon_uk": "/tiː/",
+      "record_sha256": "8eece824a030cb587a3cd6e17c0f93cea2019772704797dde5417083af9fc17a"
+    },
+    {
+      "query": "teacher",
+      "source_line": 164540,
+      "source_sense": 0,
+      "phon_uk": "/'tiːtʃə(r)/",
+      "record_sha256": "f0231852d3bc11b9a548149784b4b0a00d2c17079fd21baeb463d56865eed513"
+    },
+    {
+      "query": "temporary",
+      "source_line": 165285,
+      "source_sense": 0,
+      "phon_uk": "/'temprəri/",
+      "record_sha256": "0e089ba2434dda827a40dc9d49966db27498dc41a6910aaa2b08eb51ef176b3a"
+    },
+    {
+      "query": "terminal",
+      "source_line": 165657,
+      "source_sense": 1,
+      "phon_uk": "/'tɜːmɪnl/",
+      "record_sha256": "5f14243697adf79b07740a2f5d15f5ddacca60a2336cdfe8fcc4c6934ce724e4"
+    },
+    {
+      "query": "test",
+      "source_line": 165785,
+      "source_sense": 0,
+      "phon_uk": "/test/",
+      "record_sha256": "99b2f7763c4d7435d0b4cb1e30df7f7ac80183cd4efdc6218bcc3d8c1da1918a"
+    },
+    {
+      "query": "text",
+      "source_line": 166117,
+      "source_sense": 0,
+      "phon_uk": "/tekst/",
+      "record_sha256": "6d0461073d9d4f4b263e2a7665909ba2a96d81874b4d192b5aaaa60a5b92206c"
+    },
+    {
+      "query": "think",
+      "source_line": 166861,
+      "source_sense": 0,
+      "phon_uk": "/θɪŋk/",
+      "record_sha256": "c5bccc619941f68134369b4b6309fbde1854a5d6c4c749f010c9a0442584cc5a"
+    },
+    {
+      "query": "thread",
+      "source_line": 167180,
+      "source_sense": 0,
+      "phon_uk": "/θred/",
+      "record_sha256": "b4e1a032d02b5644e5f0abaceb2d609dee7a0aa39e2ea671b54e8523ed360fe7"
+    },
+    {
+      "query": "time",
+      "source_line": 167831,
+      "source_sense": 0,
+      "phon_uk": "/taɪm/",
+      "record_sha256": "a8d8ebb72ee1fb8e57c31a3c4aad24e4c821b6578885beaa7b454a7583cc427e"
+    },
+    {
+      "query": "token",
+      "source_line": 168397,
+      "source_sense": 3,
+      "phon_uk": "/'təʊkən/",
+      "record_sha256": "349a2883be5f9d2cde9f4660b886a38fc36d0d07e53756015196d323f0efc6a8"
+    },
+    {
+      "query": "tomato",
+      "source_line": 168492,
+      "source_sense": 1,
+      "phon_uk": "/tə'mɑːtəʊ/",
+      "record_sha256": "4e6580fb29b5dac6484c6d88fc99bae8fe72aaba2a715da945bb7ab441fbd53f"
+    },
+    {
+      "query": "tool",
+      "source_line": 168644,
+      "source_sense": 3,
+      "phon_uk": "/tuːl/",
+      "record_sha256": "1e9dcf1c61874a93c83ae75eef8dbf4e4cf6d3a10805dec43285eb7e0b5830eb"
+    },
+    {
+      "query": "town",
+      "source_line": 169211,
+      "source_sense": 0,
+      "phon_uk": "/taʊn/",
+      "record_sha256": "677e3928d5f6e311d9fcedf32857df321ce7eeddba379b11c122673f22c8ebe8"
+    },
+    {
+      "query": "train",
+      "source_line": 169573,
+      "source_sense": 0,
+      "phon_uk": "/treɪn/",
+      "record_sha256": "972ec3622e2752c177b76497f93e718e92f2087ec38a2d6978ab42a634f43c07"
+    },
+    {
+      "query": "trait",
+      "source_line": 169604,
+      "source_sense": 0,
+      "phon_uk": "/treɪt/",
+      "record_sha256": "0ba832d5d117549225e5b002f6b157ce3651f25146f629fcdad95fe6069866c9"
+    },
+    {
+      "query": "transaction",
+      "source_line": 169667,
+      "source_sense": 7,
+      "phon_uk": "/træn'zækʃn/",
+      "record_sha256": "99dba5be716519a0e3109fbfa4fb0e875c2399e912a5b8180cb86118a7281e7e"
+    },
+    {
+      "query": "transform",
+      "source_line": 169783,
+      "source_sense": 1,
+      "phon_uk": "/træns'fɔːm/",
+      "record_sha256": "1d633a088dbd447dee674d449af16f84774f09f89b46fdfe7ca82fe6cab771ed"
+    },
+    {
+      "query": "translate",
+      "source_line": 169874,
+      "source_sense": 0,
+      "phon_uk": "/trænz'leɪt/",
+      "record_sha256": "e62957bfeb3028a9465bdd592f44eda91bc538f2450ed48ada420ee4f3b67941"
+    },
+    {
+      "query": "translation",
+      "source_line": 169883,
+      "source_sense": 0,
+      "phon_uk": "/trænz'leɪʃn/",
+      "record_sha256": "b055ee79c8db54ed006449cfdc27dc0ac347dfb4613dce53c2c96e80138efbc1"
+    },
+    {
+      "query": "tree",
+      "source_line": 170281,
+      "source_sense": 0,
+      "phon_uk": "/triː/",
+      "record_sha256": "7d77ec2c41b4191b51f8f23a3b8a4f3688508e279f7ccb770884f0788627120f"
+    },
+    {
+      "query": "trigger",
+      "source_line": 170824,
+      "source_sense": 0,
+      "phon_uk": "/'trɪɡə(r)/",
+      "record_sha256": "7e8c2670e3ae47f3b703336d6424f2944b24f86415bcb11d6713b87b6da0fff7"
+    },
+    {
+      "query": "true",
+      "source_line": 171592,
+      "source_sense": 0,
+      "phon_uk": "/truː/",
+      "record_sha256": "18b54d06f314838a65025c2798dc9397edcebe8c195eb06704e343a7903a3153"
+    },
+    {
+      "query": "type",
+      "source_line": 172617,
+      "source_sense": 1,
+      "phon_uk": "/taɪp/",
+      "record_sha256": "d50c54872943919e9fedfbb83cc452fa185b02579d269e23ea6af6d83ddef18a"
+    },
+    {
+      "query": "understand",
+      "source_line": 174114,
+      "source_sense": 0,
+      "phon_uk": "/ˌʌndə'stænd/",
+      "record_sha256": "f0dbca89c8f8915a9a1aae327a6a0a055bfc1eb9a1bc8a9f8b3213ab79f65949"
+    },
+    {
+      "query": "unique",
+      "source_line": 174939,
+      "source_sense": 1,
+      "phon_uk": "/ju'niːk/",
+      "record_sha256": "37467138d8b703a140bbd39ed49e586d0a4a83a7a0a9ee8a666ea00dfb6f91bc"
+    },
+    {
+      "query": "unit",
+      "source_line": 174964,
+      "source_sense": 0,
+      "phon_uk": "/'juːnɪt/",
+      "record_sha256": "df0cf41bf84ab93db7155197c260ba09e348908be755fc6f71153e6ef755553b"
+    },
+    {
+      "query": "update",
+      "source_line": 176355,
+      "source_sense": 0,
+      "phon_uk": "/ˌʌp'deɪt/",
+      "record_sha256": "2f6681183d2fd07b4a171bcede13677ebd9b16253f8917e896de2dfc505b3952"
+    },
+    {
+      "query": "use",
+      "source_line": 176851,
+      "source_sense": 0,
+      "phon_uk": "/juːz/",
+      "record_sha256": "212d0d893c4f701ee1b1ddf327f6f8d785c839fe91dafe683c5885cd9f7e8ef4"
+    },
+    {
+      "query": "user",
+      "source_line": 176870,
+      "source_sense": 0,
+      "phon_uk": "/'juːzə(r)/",
+      "record_sha256": "918f22edbb072f2efb133742807aed4c91fd2e9f683d2c65c1e18f53a10d2016"
+    },
+    {
+      "query": "validate",
+      "source_line": 177173,
+      "source_sense": 0,
+      "phon_uk": "/'vælɪdeɪt/",
+      "record_sha256": "79f96d3794e96d58b126024dc58f989beb051261852a16463fcac095cecaa786"
+    },
+    {
+      "query": "value",
+      "source_line": 177201,
+      "source_sense": 1,
+      "phon_uk": "/'væljuː/",
+      "record_sha256": "9e711eccf520922c6f641b58e662b001070e5b513822fea312db398b9c61f646"
+    },
+    {
+      "query": "variable",
+      "source_line": 177379,
+      "source_sense": 1,
+      "phon_uk": "/'veəriəbl/",
+      "record_sha256": "92666b73737297c493bd37b4cac3f84d2dceb2109edb289e97a97c2be935dc17"
+    },
+    {
+      "query": "vector",
+      "source_line": 177609,
+      "source_sense": 2,
+      "phon_uk": "/'vektə(r)/",
+      "record_sha256": "80b615c3c6adf81f40c1efff878f1ffa95868b2e8a4b9eeb8e3591632ef00c8f"
+    },
+    {
+      "query": "version",
+      "source_line": 178103,
+      "source_sense": 0,
+      "phon_uk": "/'vɜːʃn/",
+      "record_sha256": "21a6a642a63f7c20d2b8f00e7dde0b48f1b2b52d77887d99b7a342498794ff84"
+    },
+    {
+      "query": "walk",
+      "source_line": 179577,
+      "source_sense": 0,
+      "phon_uk": "/wɔːk/",
+      "record_sha256": "f6f687d90754c18b50ebeec89961acb75a468b4fe8a58e030dd37496938d2ae2"
+    },
+    {
+      "query": "want",
+      "source_line": 179738,
+      "source_sense": 0,
+      "phon_uk": "/wɒnt/",
+      "record_sha256": "1836028080d1a69a93b038237533c65d1882e04bafda70fc9aef8850bc735822"
+    },
+    {
+      "query": "war",
+      "source_line": 179739,
+      "source_sense": 0,
+      "phon_uk": "/wɔː(r)/",
+      "record_sha256": "3b139d50179cf9954732388098709a84e6a2d44b35b38581a50bdb5bfcc25177"
+    },
+    {
+      "query": "warning",
+      "source_line": 179807,
+      "source_sense": 0,
+      "phon_uk": "/'wɔːnɪŋ/",
+      "record_sha256": "057fe30a6b249ef76d176c70566a9666940ed615b4e7d290d84b20ee7e85e570"
+    },
+    {
+      "query": "water",
+      "source_line": 180020,
+      "source_sense": 0,
+      "phon_uk": "/'wɔːtə(r)/",
+      "record_sha256": "c1b05765ef172cc95bdeb8b451226b97c2c52e37b59518dd5e9ca0a34e0b329d"
+    },
+    {
+      "query": "weak",
+      "source_line": 180338,
+      "source_sense": 0,
+      "phon_uk": "/wiːk/",
+      "record_sha256": "a3545a0d8f123fdc3a03cbe37ee611e155886ec5bcd2dde6f0d701a76f00b818"
+    },
+    {
+      "query": "white",
+      "source_line": 181162,
+      "source_sense": 0,
+      "phon_uk": "/waɪt/",
+      "record_sha256": "1b7d17a85032cb671baefd1034a1d292bfd0a6d94aa25a9e4adad260a08c6141"
+    },
+    {
+      "query": "will",
+      "source_line": 181532,
+      "source_sense": 0,
+      "phon_uk": "/wɪl/",
+      "record_sha256": "66f634c61ba71b1ad4428a00207101035f12924f517989daedb3da7fe947bf6b"
+    },
+    {
+      "query": "window",
+      "source_line": 181645,
+      "source_sense": 0,
+      "phon_uk": "/'wɪndəʊ/",
+      "record_sha256": "0c39843c72e6d559a8bea434887e8e0d972e53ed3cd8af90183ba64fff9dc59d"
+    },
+    {
+      "query": "word",
+      "source_line": 182280,
+      "source_sense": 0,
+      "phon_uk": "/wɜːd/",
+      "record_sha256": "9bc3239405f2e238dd6a390109b7ff627b00e4cf5ba9a69ca8a6e3e46e485805"
+    },
+    {
+      "query": "work",
+      "source_line": 182337,
+      "source_sense": 0,
+      "phon_uk": "/wɜːk/",
+      "record_sha256": "9beddc87cec958acc9d26e5b67fd5c40756d9528bfefc4fba20862a5d793f226"
+    },
+    {
+      "query": "world",
+      "source_line": 182429,
+      "source_sense": 1,
+      "phon_uk": "/wɜːld/",
+      "record_sha256": "2d6d7998821e1279c419ed6aea5d9d47b4e83813e8e84133f9ed3924116a2545"
+    },
+    {
+      "query": "writer",
+      "source_line": 182666,
+      "source_sense": 0,
+      "phon_uk": "/'raɪtə(r)/",
+      "record_sha256": "18321ef68a566e45babef7b6c2faa6374c82db124279c55d5932a487e9be31fc"
+    },
+    {
+      "query": "write",
+      "source_line": 182668,
+      "source_sense": 0,
+      "phon_uk": "/raɪt/",
+      "record_sha256": "de809edcb0160b93e26b9f52749367b90b05397334f74c161af958acb7e24bbb"
+    },
+    {
+      "query": "year",
+      "source_line": 183148,
+      "source_sense": 0,
+      "phon_uk": "/jɪə(r)/",
+      "record_sha256": "571f24175639c861605dc9505b34305187cd05bc00b27390a2376d4e702d89ed"
+    },
+    {
+      "query": "zero",
+      "source_line": 183620,
+      "source_sense": 1,
+      "phon_uk": "/'zɪərəʊ/",
+      "record_sha256": "4ea33269879137b13a3363f5bed22cf0c5f6f43d46fd69250234756cd42734bf"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+[package]
+name = "dict-english"
+version = "0.3.0"
+edition = "2021"
+rust-version = "1.98.1"
+autobins = false
+default-run = "zedict"
+description = "Offline English-Chinese dictionary with auditable local data"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jacek4yang/zedict"
+readme = "README.md"
+keywords = ["dictionary", "english", "chinese", "offline", "cli"]
+categories = ["command-line-utilities", "text-processing"]
+
+[features]
+default = []
+server = ["dep:axum", "dep:tower-http"]
+
+[lib]
+name = "zedict"
+path = "src/lib.rs"
+
+[[bin]]
+name = "dict-english"
+path = "src/main.rs"
+
+[[bin]]
+name = "zedict"
+path = "src/bin/zedict.rs"
+
+[dependencies]
+flate2 = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+clap_complete = "4"
+rusqlite = { version = "0.32", features = ["bundled", "limits"] }
+unicode-normalization = "0.1"
+directories = "6"
+tempfile = "3"
+toml = "0.8"
+html-escape = "0.2"
+textwrap = { version = "0.16", features = ["terminal_size"] }
+sha2 = "0.10"
+open = "5"
+httpdate = "1"
+axum = { version = "0.8", optional = true }
+tower-http = { version = "0.6", features = ["limit", "timeout"], optional = true }
+regex = "1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "net", "fs", "io-util", "time", "signal", "sync"] }
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls", "stream"] }
+futures-util = "0.3"
+tokio-tungstenite = { version = "0.24", features = ["rustls-tls-native-roots"] }
+uuid = { version = "1", features = ["v4"] }
+
+[profile.release]
+opt-level = 3
+lto = true

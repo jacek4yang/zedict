@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 安全漏洞
+    url: https://github.com/jacek4yang/zedict/security/advisories/new
+    about: 请通过私密安全公告报告，不要开公开 issue。
+  - name: 使用说明
+    url: https://github.com/jacek4yang/zedict#readme
+    about: 安装、构建与命令说明见 README。

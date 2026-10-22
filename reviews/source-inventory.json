@@ -1,0 +1,87 @@
+[
+  {
+    "path": "data/dict_full.jsonl",
+    "bytes": 150850980,
+    "sha256": "c98413344e06a63960d2825e2773a3b4fd36b25aeba347d06a14bfa0fcfb3b64"
+  },
+  {
+    "path": "data/combined.inflated",
+    "bytes": 199737344,
+    "sha256": "8dea2c9d70d48bff3e3a2fa89f73d9f297c79ae9131d2ccec9b853a211e92551"
+  },
+  {
+    "path": "data/phrase.inflated",
+    "bytes": 4369855,
+    "sha256": "fdd1c630ae6a835ffc94b84fa6f26629d4324064f96896c3339599cc3f8f8103"
+  },
+  {
+    "path": "store/dict.db",
+    "bytes": 64749546,
+    "sha256": "fe85bd5b170db0dd76acb61a227f7cfdaebaedf32d4a20e03c35b656aff46739"
+  },
+  {
+    "path": "external/eudic/dic/combined.bin",
+    "bytes": 97174509,
+    "sha256": "5e0c69dc169313eb3de4c63dfff0b08bc659754f5665a764fe0530e504d2b9a8"
+  },
+  {
+    "path": "external/eudic/dic/phrase.bin",
+    "bytes": 4996687,
+    "sha256": "b52426c8ae3714545bee782a8a4a25bd71e6cf5061d0330245cb2db2bd3d8069"
+  },
+  {
+    "path": "external/eudic/dic/utf8.bin",
+    "bytes": 148356,
+    "sha256": "fd66e71ebc78ae5f8cb650610b87c145db0675e945ed62cf5b382f050ca19c20"
+  },
+  {
+    "path": "data/semantic_related.tsv",
+    "bytes": 12485779,
+    "sha256": "abb622ac5b242c2f77b442122d5f68fc528e1d9897a22945b871f6af3859ee6d"
+  },
+  {
+    "path": "external/opencc/dictionary/TSCharacters.txt",
+    "bytes": 34627,
+    "sha256": "6b5a0a799bea2bb22c001f635eaa3fc2904310f0c08addbff275477a80ecf09a"
+  },
+  {
+    "path": "external/eudic/dic/level.bin",
+    "bytes": 1595613,
+    "sha256": "f2479858f63077235bf82d0147db7ec49bbd9f142bf39c9530c1479303610e1e"
+  },
+  {
+    "path": "data/word_levels.jsonl",
+    "bytes": 4905788,
+    "sha256": "c13cd218270b4b48d048b46868d42df99d9aee58316dacab088632dbdf3aa69c"
+  },
+  {
+    "path": "data/inflect_aliases.jsonl",
+    "bytes": 1918451,
+    "sha256": "58d63f4b718f4ba4c7eb852b57b80cb67daaddcb3927fbc964f1737d632adb6f"
+  },
+  {
+    "path": "external/opencc/dictionary/TSPhrases.txt",
+    "bytes": 5161,
+    "sha256": "b2ef895dd4953b4bb77fc8ef8d26a2a9ca6d43a760ed9a1d767672cfafa6324f"
+  },
+  {
+    "path": "external/eudic/dic/reftree.bin",
+    "bytes": 16112,
+    "sha256": "43d3119a78f77abe68ba118a633d9ff355c428e0b8d2e6c8a42454e06ca654a2"
+  },
+  {
+    "path": "data/treedata.inflated",
+    "bytes": 5488640,
+    "sha256": "1656432ff54329b6fb3f1174e50fbf8ac65ebbe12d3d83f04d3abbe89f0b12c4"
+  },
+  {
+    "path": "data/spell_words.txt",
+    "bytes": 717235,
+    "sha256": "9a8bf95de77d4ee1017c5ac57a3d8f0cff27b192c7548763bc516909833624bb"
+  },
+  {
+    "path": "external/eudic/dic/spell/en_US.dic",
+    "bytes": 936703,
+    "sha256": "f5ebd4474d23406b0cddfcc9a550fe99e0e0158d51ac1f0f0ce108b42c57dbc7"
+  }
+]

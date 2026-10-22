@@ -1,0 +1,15 @@
+/target
+__pycache__/
+/out
+/extracted
+/data
+/store
+/review-work
+/research
+/tools/_probe
+.env
+.env.*
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
