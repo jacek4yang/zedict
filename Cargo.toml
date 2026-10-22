@@ -39,7 +39,7 @@ rusqlite = { version = "0.32", features = ["bundled", "limits"] }
 unicode-normalization = "0.1"
 directories = "6"
 tempfile = "3"
-toml = "0.8"
+toml = "1.1"
 html-escape = "0.2"
 textwrap = { version = "0.16", features = ["terminal_size"] }
 sha2 = "0.10"
