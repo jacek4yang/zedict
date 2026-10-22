@@ -20,6 +20,7 @@ files = [directory / (name + (".exe" if windows else "")) for name in ("zedict",
 files += [
     root / "README.md",
     root / "CHANGELOG.md",
+    root / "LICENSE",
     root / "LICENSE-MIT",
     root / "LICENSE-APACHE",
 ]
