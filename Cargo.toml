@@ -40,7 +40,7 @@ unicode-normalization = "0.1"
 directories = "6"
 tempfile = "3"
 toml = "0.8"
-html-escape = "0.2"
+html-escape = "0.3"
 textwrap = { version = "0.16", features = ["terminal_size"] }
 sha2 = "0.10"
 open = "5"
